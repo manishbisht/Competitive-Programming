@@ -1,0 +1,3 @@
+#CodeBlocks .exe and .o files
+*.o
+*.exe
