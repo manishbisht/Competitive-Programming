@@ -5,7 +5,7 @@ long long int fromDecimal(long long int n, long long int b){
     long long int result = 0;
     long long int multiplier = 1;
     while(n>0){
-        result+=n%10*multiplier;
+        result+=n%b*multiplier;
         multiplier*=10;
         n/=b;
     }
