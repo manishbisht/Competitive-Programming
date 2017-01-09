@@ -1,0 +1,5 @@
+Case #1: white
+Case #2: white
+Case #3: black
+Case #4: white
+Case #5: black
