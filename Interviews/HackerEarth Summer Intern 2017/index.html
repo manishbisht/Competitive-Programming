@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>File Explorer by Manish Bisht</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="icon" href="images/logo.png">
+</head>
+<body>
+<header>
+    <div id="menu">
+        <div class="app-title"><img src="images/logo.png" height="30"> Nativfille</div>
+        <div class="app-description">My Local File Explorer</div>
+        <span id="close" class="material-icons">close</span>
+        <div align="left" class="tree"></div>
+    </div>
+    <div class="top">
+        <div id="open"></div>
+        <div class="root">
+            <span class="home">Home</span>
+            <span class="rootdetails" style="color: black"></span>
+        </div>
+        <div class="upload-files">
+            <div class="upload">
+                <img class="img-responsive" src="images/upload.png">
+                <span class="desktop-only"> Upload Files</span>
+            </div>
+        </div>
+    </div>
+</header>
+<div class="content">
+    <div class="view"></div>
+    <nav class="context-menu"></nav>
+</div>
+<script src="js/jquery.min.js"></script>
+<script src="js/script.js"></script>
+</body>
+</html>

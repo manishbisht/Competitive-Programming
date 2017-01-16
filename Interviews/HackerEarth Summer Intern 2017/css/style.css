@@ -1,0 +1,218 @@
+/* For mobile phones: */
+body {
+    margin: 0;
+    background-color: #F5F5F5;
+    font-family: 'Roboto';
+    overflow: hidden;
+}
+
+h1, h2, h3, h4, h5, h6, p ,hr{
+    margin: 0;
+}
+
+.icon-box {
+    width: 25%;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.icon-inner-box {
+    margin: 10px;
+}
+
+#menu {
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    position: fixed;
+    display: none;
+    border-right: groove #F5F5F5;
+    z-index: 100;
+    background-color: white;
+}
+
+#close {
+    position: fixed;
+    top: 5px;
+    right: 5px;
+}
+
+.top {
+    background-color: white;
+    font-size: 15px;
+    padding: 4px;
+    border-bottom: groove #F5F5F5;
+    min-height: 46px;
+}
+
+#open {
+    display: inline-block;
+    padding-left: 8px;
+    font-size: 30px;
+}
+
+#open:before {
+    content: '\2630';
+}
+
+.app-title {
+    margin-top: 20px;
+    font-size: 30px;
+    color: #d3a522;
+}
+
+.app-description {
+    color: #9E9E9E;
+    font-size: 20px;
+}
+
+.root {
+    font-size: 15px;
+    color: #2CC2E5;
+    display: inline-block;
+}
+
+.root-data {
+    color: #2CC2E5;
+}
+
+.tree {
+    overflow: auto;
+}
+
+ul.folder {
+    padding: 2px 2px 2px 5px;
+    margin: 0;
+}
+
+li.file {
+    list-style: none;
+    padding: 2px 2px 2px 10px;
+}
+
+span {
+    font-size: 15px;
+}
+
+.small-icon {
+    height: 15px;
+}
+
+.upload-files {
+    display: inline-block;
+    float: right;
+    margin-top: 5px;
+}
+
+.upload {
+    padding: 6px;
+    display: inline-block;
+}
+
+.upload:hover {
+    background-color: #E8EAF6;
+}
+
+.img-responsive {
+    height: 20px;
+    width: auto;
+}
+
+.icon {
+    width: 50px;
+    padding-top: 10px;
+}
+
+.context-menu {
+    display: none;
+    position: absolute;
+    z-index: 10;
+    min-width: 96px;
+    background-color: #FFFFFF;
+    border: solid 1px #DFDFDF;
+    box-shadow: 1px 1px 2px #CFCFCF;
+}
+
+.context-menu--active {
+    display: block;
+}
+
+.context-menu-items {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.context-menu-item {
+    display: block;
+}
+
+.context-menu-item:last-child {
+    margin-bottom: 0;
+}
+
+.context-menu-link {
+    display: block;
+    padding: 4px 12px;
+    color: #0066aa;
+    text-decoration: none;
+}
+
+.context-menu-link:hover {
+    color: #fff;
+    background-color: #0066aa;
+}
+
+.desktop-only {
+    display: none;
+}
+
+.data-name {
+    overflow: hidden;
+    max-width: 10ch;
+    color: #5B5B5B;
+}
+
+.view {
+    overflow: auto;
+}
+
+/* For desktop having min screen width 768 px*/
+@media only screen and (min-width: 768px) {
+    #menu {
+        display: block;
+        width: 250px;
+    }
+
+    .top {
+        padding-left: 250px;
+    }
+
+    #open {
+        display: none;
+    }
+
+    #close {
+        display: none;
+    }
+
+    .root {
+        padding: 13px;
+    }
+
+    .content {
+        padding-left: 250px;
+    }
+
+    .view {
+        overflow: auto;
+    }
+
+    .icon-box {
+        width: 16.66%;
+    }
+
+    .desktop-only {
+        display: inline;
+    }
+}
