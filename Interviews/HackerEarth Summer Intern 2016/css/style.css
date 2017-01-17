@@ -1,0 +1,82 @@
+/* CSS Document */
+body{
+	margin:0;
+	font-family:Roboto;
+	color:#0066CC;
+}
+header{
+	box-shadow: 0px 2px 2px #999999;
+}
+.identity{
+	padding:10px;
+	margin-left:25px;
+	font-weight:bold;
+}
+.content{
+	margin-top:2px;
+	margin-left:25px;
+}
+.left{
+	width:60%;
+	float:left;
+	padding-top:10px;
+}
+.title{
+	font-size:40px;
+	width:20%;
+}
+.enter-task{
+	font-size:20px;
+	padding:10px;
+	color:#0066CC;
+	width:79%;
+	margin-left:13px;
+}
+::-webkit-input-placeholder {
+   color: #0066CC;
+}
+#pendingtasks{
+	margin-top:10px;
+	}
+.pending-tasks-button{
+	color:#FFF;
+	padding:10px;
+	width:45%;
+	display:inline-block;
+	margin:5px;
+	position:relative;
+}
+.remove{
+	position:absolute;
+	top:5px;
+	right:5px;
+	display:none;
+}
+.pending-tasks-button:hover .remove{
+	display:block;
+}
+.right{
+	width:39%;
+	float:left;
+	background:#f7f7f7;  
+	border-left:groove;
+	padding:5px;
+}
+.second-title{
+	font-size:40px;
+	width:20%;
+	color:#66CC99;
+	font-weight:normal;
+}
+#completedtasks{
+	height: 85vh;
+	overflow-y: scroll;
+}
+.completed-tasks-button{
+	background:#FFFFFF;
+	margin:5px;
+	padding:10px;
+	border-color:#CCCCCC;
+	border:groove;
+	font-weight:bold;
+}

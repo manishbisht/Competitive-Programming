@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<head>
+<title>HackerEarth FrontEnd Internship</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link href="css/style.css" rel="stylesheet">
+<link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
+<link rel="icon" 
+      type="image/png"
+      href="images/logo.png"
+      sizes="16x16">
+</head>
+<body>
+<header>
+   <div class="identity">LOGO</div>
+</header>
+<div class="content">
+   <div class="left">
+      <form onSubmit="add()">
+         <label class="title">To-do</label>
+         <input id="addtask" class="enter-task" type="text" placeholder="Add a task to do" required>
+      </form>
+      <div id="pendingtasks">
+      </div>
+   </div>
+   <div class="right">
+      <div class="second-title">
+      Done
+      </div>
+      <div id="completedtasks" ondrop="drop(event)" ondragover="allowDrop(event)">
+      </div>
+   </div>
+</div>
+<script type="text/javascript" src="js/tasks.js"></script>
+</body>
+</html>
