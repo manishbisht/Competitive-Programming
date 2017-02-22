@@ -9,7 +9,6 @@ int main()
     for(i = 0; i < n; ++i){
         cin>>v[i];
     }
-    sort(v.begin(), v.end());
     a = *max_element(v.begin(), v.end());
     b = *min_element(v.begin(), v.end());
     ans = 0;
