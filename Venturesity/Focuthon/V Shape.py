@@ -4,7 +4,7 @@ X = xrange
 R = raw_input
 t = int(R())
 for i in X(0, t):
-	a = R().split(' ')
+	a = R().split()
 	a[1] = int(a[1])
 	for j in X(0, a[1]):
 		b = a[1]-j-2
