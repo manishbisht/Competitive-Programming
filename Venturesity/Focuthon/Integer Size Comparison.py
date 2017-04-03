@@ -4,9 +4,9 @@ for i in xrange(0, t):
 	b = long(raw_input())
 	c = long(raw_input())
 	d = long(raw_input())
-	if a ** b == c ** d:
+	if a == c and b == d:
 		print "E"
-	elif a ** b > c ** d:
+	elif a > c and b > d:
 		print "Y"
 	else:
 		print "N"
