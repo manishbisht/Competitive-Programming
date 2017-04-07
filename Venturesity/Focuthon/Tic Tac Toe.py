@@ -21,23 +21,5 @@ for i in xrange(0, t):
 				if d > 2:
 					b += d - 2
 				d = 0
-	if e > 2:
-		c += e - 2
-	if d > 2:
-		b += d - 2
-	for j in xrange(0, n):
-		d = 0
-		e = 0
-		for k in xrange(0, n):
-			if a[k][j] == 'x':
-				d += 1
-				if e > 2:
-					c += e - 2
-				e = 0
-			else:
-				e += 1
-				if d > 2:
-					b += d - 2
-				d = 0
 	print b
 	print c
