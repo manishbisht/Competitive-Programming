@@ -1,8 +1,8 @@
 #include <bits/stdc++.h>
 using namespace std;
 int main() {
-    freopen("task1-test-input.txt", "r", stdin);
-	freopen("output-after.txt", "w", stdout);
+    freopen("sample-input.txt", "r", stdin);
+	//freopen("output-after.txt", "w", stdout);
     long long int t, n, i, j, temp;
     long double m, v, a[105];
     cin>>t;
