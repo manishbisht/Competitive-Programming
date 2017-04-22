@@ -8,3 +8,6 @@ Solution of problems on competitive programming websites
 # How to learn Machine Learning
 - https://www.quora.com/How-do-I-learn-machine-learning-1/answer/Xavier-Amatriain
 - https://www.hackerearth.com/practice/machine-learning/machine-learning-algorithms/beginners-guide-regression-analysis-plot-interpretations/tutorial/
+
+# Extras
+- https://medium.freecodecamp.com/code-comments-the-good-the-bad-and-the-ugly-be9cc65fbf83
