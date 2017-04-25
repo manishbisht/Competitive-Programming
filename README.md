@@ -15,3 +15,6 @@ Solution of problems on competitive programming websites
 
 # Extras
 - https://medium.freecodecamp.com/code-comments-the-good-the-bad-and-the-ugly-be9cc65fbf83
+
+#Facebook Interview Preparation
+- https://www.facebook.com/careers/life/preparing-for-your-software-engineering-interview-at-facebook
