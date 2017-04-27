@@ -4,6 +4,9 @@ Solution of problems on competitive programming websites
 # Javascript
 - https://medium.freecodecamp.com/my-giant-javascript-basics-course-is-now-live-on-youtube-and-its-100-free-9020a21bbc27
 
+# Python
+- https://developers.google.com/edu/python/
+
 # Resources
 - https://techiedelight.quora.com/500-Data-structures-and-algorithms-interview-questions-and-their-solutions
 - https://www.quora.com/What-should-I-expect-in-a-Software-Engineer-interview-at-Google-and-how-should-I-prepare/answer/Moishe-Lettvin
