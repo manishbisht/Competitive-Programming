@@ -22,9 +22,10 @@ Solution of problems on competitive programming websites
 - https://www.hackerearth.com/practice/machine-learning/machine-learning-algorithms/beginners-guide-regression-analysis-plot-interpretations/tutorial/
 - https://medium.freecodecamp.com/dive-into-deep-learning-with-these-23-online-courses-bf247d289cc0
 
+#Facebook Interview Preparation
+- https://www.facebook.com/careers/life/preparing-for-your-software-engineering-interview-at-facebook
+
 # Extras
 - https://medium.freecodecamp.com/code-comments-the-good-the-bad-and-the-ugly-be9cc65fbf83
 - https://blog.poki.com/from-monolith-to-microservices-b16bae1d6c9d
-
-#Facebook Interview Preparation
-- https://www.facebook.com/careers/life/preparing-for-your-software-engineering-interview-at-facebook
+- https://medium.com/startup-grind/how-google-collapsed-b6ffa82198ee
