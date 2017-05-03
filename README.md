@@ -1,6 +1,8 @@
 # Competitive-Programming
 Solution of problems on competitive programming websites
 
+- https://algo.is/t-414-aflv-competitive-programming-course-2016/
+
 # Javascript
 - https://medium.freecodecamp.com/my-giant-javascript-basics-course-is-now-live-on-youtube-and-its-100-free-9020a21bbc27
 
