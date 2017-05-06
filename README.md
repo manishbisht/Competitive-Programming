@@ -1,6 +1,7 @@
 # Competitive-Programming
 Solution of problems on competitive programming websites
 
+- https://medium.freecodecamp.com/time-is-complex-but-priceless-f0abd015063c#.jhvtpedq5
 - https://algo.is/t-414-aflv-competitive-programming-course-2016/
 - http://codeforces.com/blog/entry/325
 
