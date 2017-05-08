@@ -15,6 +15,9 @@ Solution of problems on competitive programming websites
 # Web Development
 - https://developers.google.com/web/ilt/pwa/
 
+# GitHub
+- https://guides.github.com/introduction/flow/
+
 # Resources
 - https://docs.google.com/document/d/1_dc3Ifg7Gg1LxhiqMMmE9UbTsXpdRiYh4pKILYG2eA4/
 - https://techiedelight.quora.com/500-Data-structures-and-algorithms-interview-questions-and-their-solutions
@@ -35,3 +38,4 @@ Solution of problems on competitive programming websites
 - https://medium.freecodecamp.com/code-comments-the-good-the-bad-and-the-ugly-be9cc65fbf83
 - https://blog.poki.com/from-monolith-to-microservices-b16bae1d6c9d
 - https://medium.com/startup-grind/how-google-collapsed-b6ffa82198ee
+- https://medium.com/the-mission/the-4-stages-of-time-management-ce595e4b0796
