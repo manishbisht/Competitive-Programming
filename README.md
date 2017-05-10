@@ -27,6 +27,7 @@ Solution of problems on competitive programming websites
 
 # How to learn Machine Learning
 - https://www.quora.com/How-do-I-learn-machine-learning-1/answer/Xavier-Amatriain
+- https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.ivtp69eli
 - https://www.hackerearth.com/practice/machine-learning/machine-learning-algorithms/beginners-guide-regression-analysis-plot-interpretations/tutorial/
 - https://medium.freecodecamp.com/dive-into-deep-learning-with-these-23-online-courses-bf247d289cc0
 
