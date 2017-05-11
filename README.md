@@ -41,3 +41,4 @@ Solution of problems on competitive programming websites
 - https://blog.poki.com/from-monolith-to-microservices-b16bae1d6c9d
 - https://medium.com/startup-grind/how-google-collapsed-b6ffa82198ee
 - https://medium.com/the-mission/the-4-stages-of-time-management-ce595e4b0796
+- https://medium.com/startup-grind/i-got-rejected-by-apple-music-so-i-redesigned-it-b7e2e4dc64bf
