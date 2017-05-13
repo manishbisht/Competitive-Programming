@@ -43,3 +43,4 @@ Solution of problems on competitive programming websites
 - https://medium.com/the-mission/the-4-stages-of-time-management-ce595e4b0796
 - https://medium.com/startup-grind/i-got-rejected-by-apple-music-so-i-redesigned-it-b7e2e4dc64bf
 - https://medium.freecodecamp.com/google-is-developing-mysterious-a-new-mobile-operating-system-called-fuchsia-dc8fbd001f65
+- https://medium.freecodecamp.com/this-free-course-can-teach-you-music-programming-basics-in-less-than-an-hour-67f8a6f283f
