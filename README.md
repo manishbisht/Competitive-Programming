@@ -4,29 +4,29 @@ Solution of problems on competitive programming websites
 - https://medium.freecodecamp.com/time-is-complex-but-priceless-f0abd015063c#.jhvtpedq5
 - https://algo.is/t-414-aflv-competitive-programming-course-2016/
 - http://codeforces.com/blog/entry/325
-1. Basic math: https://www.topcoder.com/…/data-…/mathematics-for-topcoders/
-2. Recursion-1: https://www.topcoder.com/…/an-introduction-to-recursion-pa…/
-3. Recursion-2: https://www.topcoder.com/…/an-introduction-to-recursion-pa…/
-4. STL-1: https://www.topcoder.com/…/power-up-c-with-the-standard-te…/
-5. STL-2: https://www.topcoder.com/…/power-up-c-with-the-standard-te…/
-6. Binary Search: https://www.topcoder.com/…/data-science-tuto…/binary-search/
-7. Prime numbers and Euler function: https://www.topcoder.com/…/prime-numbers-factorization-and…/ 
-8. Combinatorics: https://www.topcoder.com/…/data-sc…/basics-of-combinatorics/
-9. Greedy Algorithms: https://www.hackerearth.com/…/basics-of-greedy-al…/tutorial/
-9. DP: https://www.topcoder.com/…/dynamic-programming-from-novice…/
-10. Graph Theory-1: https://www.topcoder.com/…/introduction-to-graphs-and-thei…/
-11. Graph Theory-2: https://www.topcoder.com/…/introduction-to-graphs-and-thei…/
-12. Graph Theory-3: https://www.hackerearth.com/…/shortest-path-algor…/tutorial/
-13. Minimum Spanning Tree: https://www.hackerearth.com/…/minimum-spanning-tr…/tutorial/
-14. Binary Indexed Tree: https://www.topcoder.com/…/data-scien…/binary-indexed-trees/
-15. Segment Tree: https://www.hackerearth.com/…/segment-tree-and-lazy-propag…/
-16. Disjoint-Set: https://www.topcoder.com/…/da…/disjoint-set-data-structures/
-17. String Matching: https://www.hackerearth.com/…/exact-string-matching-algori…/
-18. Trie: https://www.topcoder.com/…/da…/disjoint-set-data-structures/
-19. RMQ and LCA: https://www.topcoder.com/…/range-minimum-query-and-lowest-…/
+1. Basic math: https://www.topcoder.com/community/data-science/data-science-tutorials/mathematics-for-topcoders/
+2. Recursion-1: https://www.topcoder.com/community/data-science/data-science-tutorials/an-introduction-to-recursion-part-1/
+3. Recursion-2: https://www.topcoder.com/community/data-science/data-science-tutorials/an-introduction-to-recursion-part-2/
+4. STL-1: https://www.topcoder.com/community/data-science/data-science-tutorials/power-up-c-with-the-standard-template-library-part-1/
+5. STL-2: https://www.topcoder.com/community/data-science/data-science-tutorials/power-up-c-with-the-standard-template-library-part-2/
+6. Binary Search: https://www.topcoder.com/community/data-science/data-science-tutorials/binary-search/
+7. Prime numbers and Euler function: https://www.topcoder.com/community/data-science/data-science-tutorials/prime-numbers-factorization-and-euler-function/
+8. Combinatorics: https://www.topcoder.com/community/data-science/data-science-tutorials/basics-of-combinatorics/
+9. Greedy Algorithms: https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/tutorial/
+9. DP: https://www.topcoder.com/community/data-science/data-science-tutorials/dynamic-programming-from-novice-to-advanced/
+10. Graph Theory-1: https://www.topcoder.com/community/data-science/data-science-tutorials/introduction-to-graphs-and-their-data-structures-section-1/
+11. Graph Theory-2: https://www.topcoder.com/community/data-science/data-science-tutorials/introduction-to-graphs-and-their-data-structures-section-2/
+12. Graph Theory-3: https://www.hackerearth.com/practice/algorithms/graphs/shortest-path-algorithms/tutorial/
+13. Minimum Spanning Tree: https://www.hackerearth.com/practice/algorithms/graphs/minimum-spanning-tree/tutorial/
+14. Binary Indexed Tree: https://www.topcoder.com/community/data-science/data-science-tutorials/binary-indexed-trees/
+15. Segment Tree: https://www.hackerearth.com/practice/notes/segment-tree-and-lazy-propagation/
+16. Disjoint-Set: https://www.topcoder.com/community/data-science/data-science-tutorials/disjoint-set-data-structures/
+17. String Matching: https://www.hackerearth.com/practice/notes/exact-string-matching-algorithms/
+18. Trie: https://www.topcoder.com/community/data-science/data-science-tutorials/disjoint-set-data-structures/
+19. RMQ and LCA: https://www.topcoder.com/community/data-science/data-science-tutorials/range-minimum-query-and-lowest-common-ancestor/
 20. Articulation Points/Bridge Edges: https://www.hackerearth.com/practice/notes/nj/
-21. Maximum Flow: https://www.topcoder.com/…/maximum-flow-augmenting-path-al…/
-22. Computational Geometry: https://www.hackerearth.com/…/n…/computational-geometry-i-1/
+21. Maximum Flow: https://www.topcoder.com/community/data-science/data-science-tutorials/maximum-flow-augmenting-path-algorithms-comparison/
+22. Computational Geometry: https://www.hackerearth.com/practice/notes/computational-geometry-i-1/
 23. Mo's Algorithm: https://blog.anudeep2011.com/mos-algorithm/
 24. Heavy Light Decomposition: https://blog.anudeep2011.com/heavy-light-decomposition
 
