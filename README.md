@@ -57,8 +57,11 @@ Solution of problems on competitive programming websites
 - https://www.hackerearth.com/practice/machine-learning/machine-learning-algorithms/beginners-guide-regression-analysis-plot-interpretations/tutorial/
 - https://medium.freecodecamp.com/dive-into-deep-learning-with-these-23-online-courses-bf247d289cc0
 
-#Facebook Interview Preparation
+# Facebook Interview Preparation
 - https://www.facebook.com/careers/life/preparing-for-your-software-engineering-interview-at-facebook
+
+# Self Driving Car
+- https://medium.com/self-driving-cars/term-1-in-depth-on-udacitys-self-driving-car-curriculum-ffcf46af0c08#.fyy29vejz
 
 # Extras
 - https://developers.facebook.com/products/camera-effects/frame-studio/
