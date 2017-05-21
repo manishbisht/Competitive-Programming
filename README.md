@@ -51,7 +51,8 @@ Solution of problems on competitive programming websites
 - https://blog.hackerrank.com/winning-tech-candidates-from-google-facebook/
 - https://medium.com/readers-writers-digest/beginners-guide-to-computer-science-engineering-361ae1682f5c#.u7i2r4vmo
 
-# How to learn Machine Learning
+# Machine Learning
+- https://research.googleblog.com/2017/05/introducing-tensorflow-research-cloud.html?m=1
 - https://www.quora.com/How-do-I-learn-machine-learning-1/answer/Xavier-Amatriain
 - https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.ivtp69eli
 - https://www.hackerearth.com/practice/machine-learning/machine-learning-algorithms/beginners-guide-regression-analysis-plot-interpretations/tutorial/
