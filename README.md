@@ -50,6 +50,7 @@ Solution of problems on competitive programming websites
 - https://medium.freecodecamp.com/this-picture-will-change-the-way-you-learn-to-code-557ac1e109bd
 - https://blog.hackerrank.com/winning-tech-candidates-from-google-facebook/
 - https://medium.com/readers-writers-digest/beginners-guide-to-computer-science-engineering-361ae1682f5c#.u7i2r4vmo
+- https://github.com/jwasham/google-interview-university
 
 # Machine Learning
 - https://research.googleblog.com/2017/05/introducing-tensorflow-research-cloud.html?m=1
