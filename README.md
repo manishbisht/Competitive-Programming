@@ -66,6 +66,7 @@ Solution of problems on competitive programming websites
 - https://medium.com/self-driving-cars/term-1-in-depth-on-udacitys-self-driving-car-curriculum-ffcf46af0c08#.fyy29vejz
 
 # Extras
+- https://www.awseducate.com/student
 - https://developers.facebook.com/products/camera-effects/frame-studio/
 - https://medium.freecodecamp.com/how-to-build-your-own-uber-for-x-app-33237955e253#.13liao3xs
 - https://medium.com/google-design/how-i-joined-google-9bdb2d8bcb60#.vu6hgn23i
