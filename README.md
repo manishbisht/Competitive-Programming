@@ -78,3 +78,4 @@ Solution of problems on competitive programming websites
 - https://medium.freecodecamp.com/google-is-developing-mysterious-a-new-mobile-operating-system-called-fuchsia-dc8fbd001f65
 - https://medium.freecodecamp.com/this-free-course-can-teach-you-music-programming-basics-in-less-than-an-hour-67f8a6f283f
 - https://medium.com/iotforall/internet-of-things-world-2017-recap-8-takeaways-608d21f0da0c
+- https://entrepreneurshandbook.co/17-hyper-specific-business-ideas-ready-for-stealing-b04bf6cf126a
