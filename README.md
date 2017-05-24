@@ -4,6 +4,7 @@ Solution of problems on competitive programming websites
 - https://medium.freecodecamp.com/time-is-complex-but-priceless-f0abd015063c#.jhvtpedq5
 - https://algo.is/t-414-aflv-competitive-programming-course-2016/
 - http://codeforces.com/blog/entry/325
+- https://medium.com/@michaelolo/data-structures-stacks-on-stacks-c25f2633c529?source=email-ed17b81d6783-1477533853262-digest.reader------0-1
 1. Basic math: https://www.topcoder.com/community/data-science/data-science-tutorials/mathematics-for-topcoders/
 2. Recursion-1: https://www.topcoder.com/community/data-science/data-science-tutorials/an-introduction-to-recursion-part-1/
 3. Recursion-2: https://www.topcoder.com/community/data-science/data-science-tutorials/an-introduction-to-recursion-part-2/
