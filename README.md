@@ -72,6 +72,7 @@ Solution of problems on competitive programming websites
 - https://medium.freecodecamp.com/how-to-build-your-own-uber-for-x-app-33237955e253#.13liao3xs
 - https://medium.com/google-design/how-i-joined-google-9bdb2d8bcb60#.vu6hgn23i
 - https://www.thinkful.com/learn/uber-api/#The-Complete-Project
+- https://medium.com/uber-design/designing-the-new-uber-app-16afcc1d3c2e#.d42bqb4te
 - https://medium.freecodecamp.com/code-comments-the-good-the-bad-and-the-ugly-be9cc65fbf83
 - https://blog.poki.com/from-monolith-to-microservices-b16bae1d6c9d
 - https://medium.com/startup-grind/how-google-collapsed-b6ffa82198ee
