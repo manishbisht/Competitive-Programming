@@ -83,3 +83,4 @@ Solution of problems on competitive programming websites
 - https://medium.com/iotforall/internet-of-things-world-2017-recap-8-takeaways-608d21f0da0c
 - https://entrepreneurshandbook.co/17-hyper-specific-business-ideas-ready-for-stealing-b04bf6cf126a
 - https://thebillfold.com/working-from-home-is-never-worth-it-688a41167936
+- https://medium.com/udacity/becoming-a-self-driving-car-machine-learning-engineer-4f9433e49c19
