@@ -53,6 +53,7 @@ Solution of problems on competitive programming websites
 - https://blog.hackerrank.com/winning-tech-candidates-from-google-facebook/
 - https://medium.com/readers-writers-digest/beginners-guide-to-computer-science-engineering-361ae1682f5c#.u7i2r4vmo
 - https://github.com/jwasham/google-interview-university
+- https://gist.github.com/TSiege/cbb0507082bb18ff7e4b
 
 # Machine Learning
 - https://research.googleblog.com/2017/05/introducing-tensorflow-research-cloud.html?m=1
