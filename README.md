@@ -90,3 +90,4 @@ Solution of problems on competitive programming websites
 - https://thebillfold.com/working-from-home-is-never-worth-it-688a41167936
 - https://medium.com/udacity/becoming-a-self-driving-car-machine-learning-engineer-4f9433e49c19
 - https://medium.com/personal-growth/elon-musk-how-to-sustain-motivation-b0ddfebe3a5e
+- https://github.com/cassidoo/getting-a-gig
