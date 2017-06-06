@@ -92,3 +92,4 @@ Solution of problems on competitive programming websites
 - https://medium.com/personal-growth/elon-musk-how-to-sustain-motivation-b0ddfebe3a5e
 - https://github.com/cassidoo/getting-a-gig
 - https://medium.com/@pareshmayani/points-tips-for-college-graduates-and-fresher-engineers-cc41332d7271
+- https://medium.com/@ageitgey/quick-tip-the-easiest-way-to-grab-data-out-of-a-web-page-in-python-7153cecfca58
