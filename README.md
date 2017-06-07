@@ -46,6 +46,7 @@ Solution of problems on competitive programming websites
 - https://guides.github.com/introduction/flow/
 
 # Resources
+- https://developers.google.com/training/programs/india/
 - https://docs.google.com/document/d/1_dc3Ifg7Gg1LxhiqMMmE9UbTsXpdRiYh4pKILYG2eA4/
 - https://techiedelight.quora.com/500-Data-structures-and-algorithms-interview-questions-and-their-solutions
 - https://www.quora.com/What-should-I-expect-in-a-Software-Engineer-interview-at-Google-and-how-should-I-prepare/answer/Moishe-Lettvin
