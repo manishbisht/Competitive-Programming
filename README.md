@@ -47,6 +47,7 @@ Solution of problems on competitive programming websites
 
 # Resources
 - https://developers.google.com/training/programs/india/
+- https://courses.csail.mit.edu/iap/interview/materials.php
 - https://docs.google.com/document/d/1_dc3Ifg7Gg1LxhiqMMmE9UbTsXpdRiYh4pKILYG2eA4/
 - https://techiedelight.quora.com/500-Data-structures-and-algorithms-interview-questions-and-their-solutions
 - https://www.quora.com/What-should-I-expect-in-a-Software-Engineer-interview-at-Google-and-how-should-I-prepare/answer/Moishe-Lettvin
@@ -69,6 +70,9 @@ Solution of problems on competitive programming websites
 
 # Self Driving Car
 - https://medium.com/self-driving-cars/term-1-in-depth-on-udacitys-self-driving-car-curriculum-ffcf46af0c08#.fyy29vejz
+
+# Youtube Playlist
+- https://www.youtube.com/playlist?list=PLNYkxOF6rcIB1V2i_qfRtDMcY6YZK1lkt
 
 # Extras
 - https://www.awseducate.com/student
