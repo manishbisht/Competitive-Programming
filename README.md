@@ -58,6 +58,7 @@ Solution of problems on competitive programming websites
 - https://gist.github.com/TSiege/cbb0507082bb18ff7e4b
 - https://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions
 - https://docs.google.com/presentation/d/1Bs8skzUwgkfA30FbejcsWy2DCnD1AkIHNDyQ0sUFpRU/
+- https://www.paysa.com/blog/2017/05/23/33-common-software-engineering-interview-questions/
 
 # Machine Learning
 - https://research.googleblog.com/2017/05/introducing-tensorflow-research-cloud.html?m=1
