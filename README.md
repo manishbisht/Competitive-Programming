@@ -35,6 +35,7 @@ Solution of problems on competitive programming websites
 # Javascript
 - https://medium.freecodecamp.com/my-giant-javascript-basics-course-is-now-live-on-youtube-and-its-100-free-9020a21bbc27
 - https://medium.freecodecamp.com/a-step-by-step-guide-to-making-pure-css-tooltips-3d5a3e237346
+- https://medium.freecodecamp.com/grabs-front-end-guide-for-large-teams-484d4033cc41
 
 # Python
 - https://developers.google.com/edu/python/
