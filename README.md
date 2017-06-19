@@ -5,7 +5,7 @@ Solution of problems on competitive programming websites
 - https://algo.is/t-414-aflv-competitive-programming-course-2016/
 - http://codeforces.com/blog/entry/325
 - http://codeforces.com/blog/entry/47822
-- https://medium.com/@michaelolo/data-structures-stacks-on-stacks-c25f2633c529?source=email-ed17b81d6783-1477533853262-digest.reader------0-1
+- https://medium.freecodecamp.com/data-structures-stacks-on-stacks-c25f2633c529
 1. Basic math: https://www.topcoder.com/community/data-science/data-science-tutorials/mathematics-for-topcoders/
 2. Recursion-1: https://www.topcoder.com/community/data-science/data-science-tutorials/an-introduction-to-recursion-part-1/
 3. Recursion-2: https://www.topcoder.com/community/data-science/data-science-tutorials/an-introduction-to-recursion-part-2/
@@ -47,6 +47,7 @@ Solution of problems on competitive programming websites
 - https://guides.github.com/introduction/flow/
 
 # Resources
+- https://www.google.com/edu/cs/index.html
 - https://developers.google.com/training/programs/india/
 - https://courses.csail.mit.edu/iap/interview/materials.php
 - https://docs.google.com/document/d/1_dc3Ifg7Gg1LxhiqMMmE9UbTsXpdRiYh4pKILYG2eA4/
