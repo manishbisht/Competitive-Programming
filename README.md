@@ -5,6 +5,7 @@ Solution of problems on competitive programming websites
 - https://algo.is/t-414-aflv-competitive-programming-course-2016/
 - http://codeforces.com/blog/entry/325
 - http://codeforces.com/blog/entry/47822
+- http://codeforces.com/blog/entry/23054
 - https://medium.freecodecamp.com/data-structures-stacks-on-stacks-c25f2633c529
 - https://medium.com/the-renaissance-developer/python-101-the-basics-441136fb7cc3
 1. Basic math: https://www.topcoder.com/community/data-science/data-science-tutorials/mathematics-for-topcoders/
