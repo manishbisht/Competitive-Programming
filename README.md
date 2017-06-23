@@ -87,6 +87,7 @@ Solution of problems on competitive programming websites
 - https://googleyasheck.com/
 - https://medium.freecodecamp.com/how-to-build-your-own-uber-for-x-app-33237955e253#.13liao3xs
 - https://www.hackerearth.com/practice/codemonk/
+- https://medium.com/@david.gilbertson/react-and-firebase-sittin-in-a-tree-a00d481786cb
 - https://medium.com/google-design/how-i-joined-google-9bdb2d8bcb60#.vu6hgn23i
 - https://blog.docker.com/2017/05/announcing-docker-student-developer-kit-campus-ambassador-program/
 - https://www.thinkful.com/learn/uber-api/#The-Complete-Project
