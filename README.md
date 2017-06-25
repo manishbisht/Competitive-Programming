@@ -89,6 +89,7 @@ Solution of problems on competitive programming websites
 - https://www.awseducate.com/student
 - https://developers.facebook.com/products/camera-effects/frame-studio/
 - https://googleyasheck.com/
+- https://www.linkedin.com/pulse/average-googler-four-weeks-study-plan-milad-naseri
 - https://medium.freecodecamp.com/how-to-build-your-own-uber-for-x-app-33237955e253#.13liao3xs
 - https://www.hackerearth.com/practice/codemonk/
 - https://medium.com/@david.gilbertson/react-and-firebase-sittin-in-a-tree-a00d481786cb
