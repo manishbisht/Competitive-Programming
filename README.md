@@ -116,3 +116,4 @@ Solution of problems on competitive programming websites
 - https://medium.com/@UdacityINDIA/career-upgrade-plan-for-2017-9ba06de64bfb#.8ouf0x3p6
 - https://github.com/craimbert/uber-bot-challenges
 - https://medium.com/iotforall/10-things-you-didnt-know-about-wifi-fe638076c0c
+- https://medium.freecodecamp.com/what-i-learned-from-apple-rejecting-me-for-a-scholarship-to-the-wwdc-952e756ba586
