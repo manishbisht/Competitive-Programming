@@ -8,6 +8,7 @@ Solution of problems on competitive programming websites
 - http://codeforces.com/blog/entry/23054
 - https://medium.freecodecamp.com/data-structures-stacks-on-stacks-c25f2633c529
 - https://medium.com/the-renaissance-developer/python-101-the-basics-441136fb7cc3
+- https://www.quora.com/What-should-I-know-from-CLRS-3rd-edition-book-if-my-aim-is-to-get-into-Google/answer/Jimmy-Saade
 1. Basic math: https://www.topcoder.com/community/data-science/data-science-tutorials/mathematics-for-topcoders/
 2. Recursion-1: https://www.topcoder.com/community/data-science/data-science-tutorials/an-introduction-to-recursion-part-1/
 3. Recursion-2: https://www.topcoder.com/community/data-science/data-science-tutorials/an-introduction-to-recursion-part-2/
