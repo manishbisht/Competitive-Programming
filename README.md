@@ -87,6 +87,9 @@ Solution of problems on competitive programming websites
 - https://medium.freecodecamp.com/surge-vs-github-pages-deploying-a-create-react-app-project-c0ecbf317089
 - https://travishorn.com/passing-data-between-classes-components-in-react-4f8fea489f80
 
+# Angular JS
+- https://angular-university.io/course/getting-started-with-angular2
+
 # Extras
 - https://www.awseducate.com/student
 - https://developers.facebook.com/products/camera-effects/frame-studio/
