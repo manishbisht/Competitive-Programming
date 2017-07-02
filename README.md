@@ -90,6 +90,9 @@ Solution of problems on competitive programming websites
 # Angular JS
 - https://angular-university.io/course/getting-started-with-angular2
 
+# Portfolio
+- http://debarghyadas.com/
+
 # Extras
 - https://www.awseducate.com/student
 - https://developers.facebook.com/products/camera-effects/frame-studio/
