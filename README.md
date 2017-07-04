@@ -93,6 +93,10 @@ Solution of problems on competitive programming websites
 
 # Portfolio
 - http://debarghyadas.com/
+- http://www.briandavidvaughn.com
+
+# Spotify
+- https://hrblog.spotify.com/2017/02/17/how-to-get-a-job-at-spotify/
 
 # Extras
 - https://www.awseducate.com/student
@@ -103,7 +107,7 @@ Solution of problems on competitive programming websites
 - https://www.hackerearth.com/practice/codemonk/
 - https://medium.com/@andybons/what-xooglers-should-know-when-entering-the-startup-world-eac0c59f804d
 - https://medium.com/@david.gilbertson/react-and-firebase-sittin-in-a-tree-a00d481786cb
-- https://medium.com/google-design/how-i-joined-google-9bdb2d8bcb60#.vu6hgn23i
+- https://medium.com/google-design/how-i-joined-google-9bdb2d8bcb60
 - https://blog.docker.com/2017/05/announcing-docker-student-developer-kit-campus-ambassador-program/
 - https://www.thinkful.com/learn/uber-api/#The-Complete-Project
 - https://medium.freecodecamp.com/the-best-data-science-courses-on-the-internet-ranked-by-your-reviews-6dc5b910ea40
