@@ -11,6 +11,7 @@ Solution of problems on competitive programming websites
 - https://www.quora.com/What-should-I-know-from-CLRS-3rd-edition-book-if-my-aim-is-to-get-into-Google/answer/Jimmy-Saade
 - https://www.topcoder.com/blog/cheat-sheet-algorithm-competitions-topcoder/
 - https://medium.freecodecamp.org/10-common-data-structures-explained-with-videos-exercises-aaff6c06fb2b
+- https://www.commonlounge.com/discussion/5d2822257dfa49328d85fd27cf114441/main
 1. Basic math: https://www.topcoder.com/community/data-science/data-science-tutorials/mathematics-for-topcoders/
 2. Recursion-1: https://www.topcoder.com/community/data-science/data-science-tutorials/an-introduction-to-recursion-part-1/
 3. Recursion-2: https://www.topcoder.com/community/data-science/data-science-tutorials/an-introduction-to-recursion-part-2/
