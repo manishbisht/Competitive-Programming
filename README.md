@@ -77,7 +77,10 @@ Solution of problems on competitive programming websites
 - https://medium.freecodecamp.com/dive-into-deep-learning-with-these-23-online-courses-bf247d289cc0
 - https://hackernoon.com/machine-learning-with-javascript-part-1-9b97f3ed4fe5
 
-# Facebook Interview Preparation
+# Google
+- https://careers.google.com/jobs/#t=sq&q=j&so=dt_pd&li=20&l=false&jlo=en-US&je=INTERN&jex=ENTRY_LEVEL&jed=BACHELORS&jc=SOFTWARE_ENGINEERING
+
+# Facebook
 - https://www.facebook.com/careers/life/preparing-for-your-software-engineering-interview-at-facebook
 
 # Self Driving Car
