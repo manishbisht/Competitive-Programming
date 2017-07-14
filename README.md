@@ -116,7 +116,6 @@ Solution of problems on competitive programming websites
 - https://medium.freecodecamp.com/how-to-build-your-own-uber-for-x-app-33237955e253
 - https://medium.com/@andybons/what-xooglers-should-know-when-entering-the-startup-world-eac0c59f804d
 - https://www.hackerearth.com/practice/codemonk/
-- https://medium.com/@andybons/what-xooglers-should-know-when-entering-the-startup-world-eac0c59f804d
 - https://medium.com/@david.gilbertson/react-and-firebase-sittin-in-a-tree-a00d481786cb
 - https://medium.com/google-design/how-i-joined-google-9bdb2d8bcb60
 - https://blog.docker.com/2017/05/announcing-docker-student-developer-kit-campus-ambassador-program/
