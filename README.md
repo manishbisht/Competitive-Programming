@@ -85,6 +85,7 @@ Solution of problems on competitive programming websites
 
 # Facebook
 - https://www.facebook.com/careers/life/preparing-for-your-software-engineering-interview-at-facebook
+- https://www.techinasia.com/talk/crack-google-facebooks-software-engineering-interview
 
 # Self Driving Car
 - https://medium.com/self-driving-cars/term-1-in-depth-on-udacitys-self-driving-car-curriculum-ffcf46af0c08#.fyy29vejz
