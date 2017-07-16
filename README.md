@@ -79,13 +79,17 @@ Solution of problems on competitive programming websites
 
 # Jobs and Interviews
 - https://medium.freecodecamp.com/how-to-write-a-good-resume-in-2017-b8ea9dfdd3b9
+- https://medium.com/udacity/advice-from-a-recruiter-eaa340685990
 
 # Google
-- https://careers.google.com/jobs/#t=sq&q=j&so=dt_pd&li=20&l=false&jlo=en-US&je=INTERN&jex=ENTRY_LEVEL&jed=BACHELORS&jc=SOFTWARE_ENGINEERING
+- Technical Internships https://careers.google.com/jobs/#t=sq&q=j&so=dt_pd&li=20&l=false&jlo=en-US&je=INTERN&jex=ENTRY_LEVEL&jed=BACHELORS&jc=SOFTWARE_ENGINEERING
 
 # Facebook
 - https://www.facebook.com/careers/life/preparing-for-your-software-engineering-interview-at-facebook
 - https://www.techinasia.com/talk/crack-google-facebooks-software-engineering-interview
+
+# Spotify
+- https://hrblog.spotify.com/2017/02/17/how-to-get-a-job-at-spotify/
 
 # Self Driving Car
 - https://medium.com/self-driving-cars/term-1-in-depth-on-udacitys-self-driving-car-curriculum-ffcf46af0c08#.fyy29vejz
@@ -105,9 +109,6 @@ Solution of problems on competitive programming websites
 - http://debarghyadas.com/
 - http://www.briandavidvaughn.com
 - Security Princess | http://asirap.net/
-
-# Spotify
-- https://hrblog.spotify.com/2017/02/17/how-to-get-a-job-at-spotify/
 
 # Extras
 - https://www.awseducate.com/student
