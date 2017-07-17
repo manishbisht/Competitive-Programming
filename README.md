@@ -76,6 +76,7 @@ Solution of problems on competitive programming websites
 - https://www.hackerearth.com/practice/machine-learning/machine-learning-algorithms/beginners-guide-regression-analysis-plot-interpretations/tutorial/
 - https://medium.freecodecamp.com/dive-into-deep-learning-with-these-23-online-courses-bf247d289cc0
 - https://hackernoon.com/machine-learning-with-javascript-part-1-9b97f3ed4fe5
+- https://medium.com/udacity/ai-nanodegree-program-syllabus-term-1-in-depth-80c41297acaf
 
 # Jobs and Interviews
 - https://medium.freecodecamp.com/how-to-write-a-good-resume-in-2017-b8ea9dfdd3b9
