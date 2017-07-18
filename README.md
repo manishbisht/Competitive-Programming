@@ -88,6 +88,7 @@ Solution of problems on competitive programming websites
 # Facebook
 - https://www.facebook.com/careers/life/preparing-for-your-software-engineering-interview-at-facebook
 - https://www.techinasia.com/talk/crack-google-facebooks-software-engineering-interview
+- https://www.glassdoor.com/blog/want-to-work-at-facebook-lori-goler/
 
 # Spotify
 - https://hrblog.spotify.com/2017/02/17/how-to-get-a-job-at-spotify/
