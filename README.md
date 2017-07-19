@@ -107,6 +107,9 @@ Solution of problems on competitive programming websites
 # Angular JS
 - https://angular-university.io/course/getting-started-with-angular2
 
+# Kotlin
+- https://android.jlelse.eu/handsome-codes-with-kotlin-6e183db4c7e5
+
 # Portfolio
 - http://debarghyadas.com/
 - http://www.briandavidvaughn.com
