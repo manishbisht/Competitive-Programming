@@ -82,6 +82,9 @@ Solution of problems on competitive programming websites
 - https://medium.freecodecamp.com/how-to-write-a-good-resume-in-2017-b8ea9dfdd3b9
 - https://medium.com/udacity/advice-from-a-recruiter-eaa340685990
 
+# Apple
+- https://machinelearning.apple.com
+
 # Google
 - Technical Internships https://careers.google.com/jobs/#t=sq&q=j&so=dt_pd&li=20&l=false&jlo=en-US&je=INTERN&jex=ENTRY_LEVEL&jed=BACHELORS&jc=SOFTWARE_ENGINEERING
 - https://gist.github.com/amaxwell01/3728155
