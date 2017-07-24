@@ -98,6 +98,9 @@ Solution of problems on competitive programming websites
 # Spotify
 - https://hrblog.spotify.com/2017/02/17/how-to-get-a-job-at-spotify/
 
+# Amazon
+- https://campusmantra.blogspot.in/2017/03/amazon-interview-experience.html
+
 # Self Driving Car
 - https://medium.com/self-driving-cars/term-1-in-depth-on-udacitys-self-driving-car-curriculum-ffcf46af0c08#.fyy29vejz
 
