@@ -130,6 +130,7 @@ Solution of problems on competitive programming websites
 - https://www.awseducate.com/student
 - https://developers.facebook.com/products/camera-effects/frame-studio/
 - https://googleyasheck.com/
+- https://medium.com/statuscode/building-a-basic-web-service-to-display-your-medium-blog-posts-on-your-website-using-aws-api-48597b1771c5
 - https://www.linkedin.com/pulse/average-googler-four-weeks-study-plan-milad-naseri
 - https://medium.freecodecamp.com/how-to-build-your-own-uber-for-x-app-33237955e253
 - https://medium.com/@andybons/what-xooglers-should-know-when-entering-the-startup-world-eac0c59f804d
