@@ -118,6 +118,9 @@ Solution of problems on competitive programming websites
 # Angular JS
 - https://angular-university.io/course/getting-started-with-angular2
 
+# CSS
+- https://medium.freecodecamp.org/reducing-css-bundle-size-70-by-cutting-the-class-names-and-using-scope-isolation-625440de600b
+
 # Kotlin
 - https://android.jlelse.eu/handsome-codes-with-kotlin-6e183db4c7e5
 
