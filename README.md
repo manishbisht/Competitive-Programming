@@ -103,6 +103,9 @@ Solution of problems on competitive programming websites
 # Amazon
 - https://campusmantra.blogspot.in/2017/03/amazon-interview-experience.html
 
+# Twitter
+- https://careers.twitter.com/content/dam/careers-twitter/university/FINAL_RESUME101.pdf
+
 # Self Driving Car
 - https://medium.com/self-driving-cars/term-1-in-depth-on-udacitys-self-driving-car-curriculum-ffcf46af0c08#.fyy29vejz
 
