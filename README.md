@@ -90,6 +90,7 @@ Solution of problems on competitive programming websites
 - Technical Internships https://careers.google.com/jobs/#t=sq&q=j&so=dt_pd&li=20&l=false&jlo=en-US&je=INTERN&jex=ENTRY_LEVEL&jed=BACHELORS&jc=SOFTWARE_ENGINEERING
 - https://gist.github.com/amaxwell01/3728155
 - https://www.google.com/partners/#p_mobilesitescertification
+- https://www.quora.com/What-should-I-expect-in-a-Software-Engineer-interview-at-Google-and-how-should-I-prepare/answer/Moishe-Lettvin
 
 # Facebook
 - https://www.facebook.com/careers/life/preparing-for-your-software-engineering-interview-at-facebook
