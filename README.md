@@ -82,6 +82,7 @@ Solution of problems on competitive programming websites
 - https://techiedelight.quora.com/500-Data-structures-and-algorithms-interview-questions-and-their-solutions
 - https://medium.freecodecamp.com/how-to-write-a-good-resume-in-2017-b8ea9dfdd3b9
 - https://medium.com/udacity/advice-from-a-recruiter-eaa340685990
+- https://www.quora.com/Career-Advice-How-can-I-get-a-job-at-Facebook-or-Google-in-6-months/answer/Rick-Viscomi
 
 # Apple
 - https://machinelearning.apple.com
