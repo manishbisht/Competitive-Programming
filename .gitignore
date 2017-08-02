@@ -2,3 +2,6 @@
 *.o
 *.exe
 .idea
+
+#Jupyter Notebook checkpoints
+.ipynb_checkpoints
