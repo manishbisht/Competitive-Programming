@@ -42,6 +42,7 @@ Solution of problems on competitive programming websites
 - https://medium.freecodecamp.com/my-giant-javascript-basics-course-is-now-live-on-youtube-and-its-100-free-9020a21bbc27
 - https://medium.freecodecamp.com/a-step-by-step-guide-to-making-pure-css-tooltips-3d5a3e237346
 - https://medium.freecodecamp.com/grabs-front-end-guide-for-large-teams-484d4033cc41
+- https://github.com/getify/You-Dont-Know-JS
 
 # Python
 - https://developers.google.com/edu/python/
@@ -70,7 +71,7 @@ Solution of problems on competitive programming websites
 - https://blog.devmastery.com/how-to-win-the-coding-interview-71ae7102d685
 
 # Machine Learning
-- https://research.googleblog.com/2017/05/introducing-tensorflow-research-cloud.html?m=1
+- https://research.googleblog.com/2017/05/introducing-tensorflow-research-cloud.html
 - https://www.quora.com/How-do-I-learn-machine-learning-1/answer/Xavier-Amatriain
 - https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.ivtp69eli
 - https://www.hackerearth.com/practice/machine-learning/machine-learning-algorithms/beginners-guide-regression-analysis-plot-interpretations/tutorial/
