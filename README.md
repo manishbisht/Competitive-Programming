@@ -43,6 +43,7 @@ Solution of problems on competitive programming websites
 - https://medium.freecodecamp.com/a-step-by-step-guide-to-making-pure-css-tooltips-3d5a3e237346
 - https://medium.freecodecamp.com/grabs-front-end-guide-for-large-teams-484d4033cc41
 - https://github.com/getify/You-Dont-Know-JS
+- https://medium.freecodecamp.com/javascript-arrays-and-objects-are-just-like-books-and-newspapers-6e1cbd8a1746
 
 # Python
 - https://developers.google.com/edu/python/
