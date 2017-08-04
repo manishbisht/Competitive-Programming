@@ -85,6 +85,7 @@ Solution of problems on competitive programming websites
 - https://medium.freecodecamp.com/how-to-write-a-good-resume-in-2017-b8ea9dfdd3b9
 - https://medium.com/udacity/advice-from-a-recruiter-eaa340685990
 - https://www.quora.com/Career-Advice-How-can-I-get-a-job-at-Facebook-or-Google-in-6-months/answer/Rick-Viscomi
+- https://www.glassdoor.com/blog/winning-resume/
 
 # Apple
 - https://machinelearning.apple.com
