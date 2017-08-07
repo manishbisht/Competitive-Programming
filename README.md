@@ -38,6 +38,9 @@ Solution of problems on competitive programming websites
 23. Mo's Algorithm: https://blog.anudeep2011.com/mos-algorithm/
 24. Heavy Light Decomposition: https://blog.anudeep2011.com/heavy-light-decomposition
 
+# Stanford Online Course
+- http://web.stanford.edu/class/archive/cs/cs161/cs161.1168/
+
 # Javascript
 - https://medium.freecodecamp.com/my-giant-javascript-basics-course-is-now-live-on-youtube-and-its-100-free-9020a21bbc27
 - https://medium.freecodecamp.com/a-step-by-step-guide-to-making-pure-css-tooltips-3d5a3e237346
