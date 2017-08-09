@@ -145,6 +145,9 @@ Solution of problems on competitive programming websites
 - http://www.briandavidvaughn.com
 - Security Princess | http://asirap.net/
 
+# Cloud Computing
+- https://medium.freecodecamp.org/why-learning-to-code-alexa-skills-is-the-gateway-to-a-cloud-computing-job-fa13c1c0c853
+
 # Extras
 - https://www.awseducate.com/student
 - https://developers.facebook.com/products/camera-effects/frame-studio/
