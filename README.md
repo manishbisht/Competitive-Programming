@@ -75,9 +75,10 @@ Solution of problems on competitive programming websites
 - https://blog.devmastery.com/how-to-win-the-coding-interview-71ae7102d685
 
 # Machine Learning
+- https://www.hackerearth.com/practice/machine-learning/data-manipulation-visualisation-r-python/tutorial-data-manipulation-numpy-pandas-python/tutorial/
 - https://research.googleblog.com/2017/05/introducing-tensorflow-research-cloud.html
 - https://www.quora.com/How-do-I-learn-machine-learning-1/answer/Xavier-Amatriain
-- https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.ivtp69eli
+- https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471
 - https://www.hackerearth.com/practice/machine-learning/machine-learning-algorithms/beginners-guide-regression-analysis-plot-interpretations/tutorial/
 - https://medium.freecodecamp.com/dive-into-deep-learning-with-these-23-online-courses-bf247d289cc0
 - https://hackernoon.com/machine-learning-with-javascript-part-1-9b97f3ed4fe5
