@@ -50,6 +50,7 @@ Solution of problems on competitive programming websites
 
 # Python
 - https://developers.google.com/edu/python/
+- https://pythonschool.net/
 
 # Web Development
 - https://developers.google.com/web/ilt/pwa/
