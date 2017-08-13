@@ -133,6 +133,7 @@ Solution of problems on competitive programming websites
 - https://travishorn.com/passing-data-between-classes-components-in-react-4f8fea489f80
 - https://medium.freecodecamp.org/make-react-fast-again-tools-and-techniques-for-speeding-up-your-react-app-7ad39d3c1b82
 - https://edgecoders.com/learning-react-js-is-easier-than-you-think-fbd6dc4d935a
+- https://www.topcoder.com/blog/getting-started-reactjs/
 
 # Angular JS
 - https://angular-university.io/course/getting-started-with-angular2
