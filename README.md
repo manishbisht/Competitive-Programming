@@ -47,6 +47,7 @@ Solution of problems on competitive programming websites
 - https://medium.freecodecamp.com/grabs-front-end-guide-for-large-teams-484d4033cc41
 - https://github.com/getify/You-Dont-Know-JS
 - https://medium.freecodecamp.com/javascript-arrays-and-objects-are-just-like-books-and-newspapers-6e1cbd8a1746
+- https://medium.freecodecamp.org/a-practical-guide-to-fetch-reduce-and-formatting-data-from-an-external-api-283ddd9bfdcb
 
 # Python
 - https://developers.google.com/edu/python/
