@@ -112,6 +112,7 @@ Solution of problems on competitive programming websites
 - https://www.techinasia.com/talk/crack-google-facebooks-software-engineering-interview
 - https://www.glassdoor.com/blog/want-to-work-at-facebook-lori-goler/
 - https://hbr.org/2017/07/inside-facebooks-ai-workshop
+- https://www.fastcompany.com/40408179/im-facebooks-head-of-people-heres-what-were-hiring-for-right-now-and-why
 
 # Spotify
 - https://hrblog.spotify.com/2017/02/17/how-to-get-a-job-at-spotify/
