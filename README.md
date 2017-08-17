@@ -119,6 +119,7 @@ Solution of problems on competitive programming websites
 
 # Amazon
 - https://campusmantra.blogspot.in/2017/03/amazon-interview-experience.html
+- https://medium.freecodecamp.com/why-learning-to-code-alexa-skills-is-the-gateway-to-a-cloud-computing-job-fa13c1c0c853
 
 # Twitter
 - https://careers.twitter.com/content/dam/careers-twitter/university/FINAL_RESUME101.pdf
