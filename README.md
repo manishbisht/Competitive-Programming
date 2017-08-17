@@ -137,6 +137,7 @@ Solution of problems on competitive programming websites
 - https://medium.freecodecamp.org/make-react-fast-again-tools-and-techniques-for-speeding-up-your-react-app-7ad39d3c1b82
 - https://edgecoders.com/learning-react-js-is-easier-than-you-think-fbd6dc4d935a
 - https://www.topcoder.com/blog/getting-started-reactjs/
+- https://medium.freecodecamp.com/a-practical-guide-to-fetch-reduce-and-formatting-data-from-an-external-api-283ddd9bfdcb
 
 # Angular JS
 - https://angular-university.io/course/getting-started-with-angular2
