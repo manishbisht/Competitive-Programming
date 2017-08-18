@@ -159,6 +159,9 @@ Solution of problems on competitive programming websites
 # Cloud Computing
 - https://medium.freecodecamp.org/why-learning-to-code-alexa-skills-is-the-gateway-to-a-cloud-computing-job-fa13c1c0c853
 
+# Internet of Things
+- https://iot-for-all.com/6-things-you-didnt-know-about-gps-efb37e83bd02
+
 # Extras
 - https://www.awseducate.com/student
 - https://developers.facebook.com/products/camera-effects/frame-studio/
