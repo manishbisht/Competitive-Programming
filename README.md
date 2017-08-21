@@ -162,6 +162,9 @@ Solution of problems on competitive programming websites
 # Internet of Things
 - https://iot-for-all.com/6-things-you-didnt-know-about-gps-efb37e83bd02
 
+# DNS
+- https://medium.freecodecamp.com/the-domain-name-system-dns-is-the-backbone-of-the-internet-heres-how-it-all-works-5706d0afa0fa
+
 # Extras
 - https://www.awseducate.com/student
 - https://developers.facebook.com/products/camera-effects/frame-studio/
