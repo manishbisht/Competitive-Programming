@@ -142,6 +142,9 @@ Solution of problems on competitive programming websites
 # Angular JS
 - https://angular-university.io/course/getting-started-with-angular2
 
+# Firebase
+- https://medium.freecodecamp.org/firebase-5-way-too-common-misconceptions-93b843ee1b93
+
 # CSS
 - https://medium.freecodecamp.org/reducing-css-bundle-size-70-by-cutting-the-class-names-and-using-scope-isolation-625440de600b
 
