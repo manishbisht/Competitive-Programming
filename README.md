@@ -96,6 +96,7 @@ Solution of problems on competitive programming websites
 - https://medium.com/udacity/advice-from-a-recruiter-eaa340685990
 - https://www.quora.com/Career-Advice-How-can-I-get-a-job-at-Facebook-or-Google-in-6-months/answer/Rick-Viscomi
 - https://www.glassdoor.com/blog/winning-resume/
+- https://medium.freecodecamp.org/trending-developer-skills-based-on-my-analysis-of-ask-hn-whos-hiring-26c02a3ca1fd
 
 # Apple
 - https://machinelearning.apple.com
