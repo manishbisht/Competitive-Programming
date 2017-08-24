@@ -75,6 +75,7 @@ Solution of problems on competitive programming websites
 - https://docs.google.com/presentation/d/1Bs8skzUwgkfA30FbejcsWy2DCnD1AkIHNDyQ0sUFpRU/
 - https://www.paysa.com/blog/2017/05/23/33-common-software-engineering-interview-questions/
 - https://blog.devmastery.com/how-to-win-the-coding-interview-71ae7102d685
+- https://medium.com/the-mission/50-best-resources-when-learning-to-code-496cefc29507
 
 # Machine Learning
 - https://www.hackerearth.com/practice/machine-learning/data-manipulation-visualisation-r-python/tutorial-data-manipulation-numpy-pandas-python/tutorial/
