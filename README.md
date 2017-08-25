@@ -170,6 +170,9 @@ Solution of problems on competitive programming websites
 # DNS
 - https://medium.freecodecamp.com/the-domain-name-system-dns-is-the-backbone-of-the-internet-heres-how-it-all-works-5706d0afa0fa
 
+# Messaging Bots
+- https://chatbotsmagazine.com/you-and-your-bot-a-new-kind-of-lifelong-relationship-6a9649feeb71
+
 # Extras
 - https://www.awseducate.com/student
 - https://developers.facebook.com/products/camera-effects/frame-studio/
