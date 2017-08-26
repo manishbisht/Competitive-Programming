@@ -98,6 +98,7 @@ Solution of problems on competitive programming websites
 - https://www.quora.com/Career-Advice-How-can-I-get-a-job-at-Facebook-or-Google-in-6-months/answer/Rick-Viscomi
 - https://www.glassdoor.com/blog/winning-resume/
 - https://medium.freecodecamp.org/trending-developer-skills-based-on-my-analysis-of-ask-hn-whos-hiring-26c02a3ca1fd
+- https://www.reddit.com/r/cscareerquestions/comments/6enydz/im_gayle_laakmann_mcdowell_author_of_cracking_the/
 
 # Apple
 - https://machinelearning.apple.com
