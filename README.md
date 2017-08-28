@@ -79,6 +79,7 @@ Solution of problems on competitive programming websites
 - https://themission.co/50-best-resources-when-learning-to-code-496cefc29507
 
 # Machine Learning
+- https://medium.com/machine-learning-for-humans/why-machine-learning-matters-6164faf1df12
 - https://www.hackerearth.com/practice/machine-learning/data-manipulation-visualisation-r-python/tutorial-data-manipulation-numpy-pandas-python/tutorial/
 - https://research.googleblog.com/2017/05/introducing-tensorflow-research-cloud.html
 - https://www.quora.com/How-do-I-learn-machine-learning-1/answer/Xavier-Amatriain
