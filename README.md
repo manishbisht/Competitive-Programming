@@ -92,6 +92,9 @@ Solution of problems on competitive programming websites
 # Internships
 - https://www.cnbc.com/2017/07/26/10-tips-to-be-the-intern-everybody-wants-to-hire.html
 
+# Intership to Full-Time
+- https://www.inc.com/anna-meyer/microsoft-ibm-facebook-hr-managers-how-to-get-hired-after-an-internship.html
+
 # Jobs and Interviews
 - http://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/
 - https://techiedelight.quora.com/500-Data-structures-and-algorithms-interview-questions-and-their-solutions
