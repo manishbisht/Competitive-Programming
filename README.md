@@ -186,6 +186,9 @@ Solution of problems on competitive programming websites
 # Messaging Bots
 - https://chatbotsmagazine.com/you-and-your-bot-a-new-kind-of-lifelong-relationship-6a9649feeb71
 
+# Design
+- https://medium.com/@michellechanme/what-i-learned-as-a-design-intern-at-tesla-and-uber-3a357bcb0d51
+
 # Extras
 - https://www.awseducate.com/student
 - https://developers.facebook.com/products/camera-effects/frame-studio/
