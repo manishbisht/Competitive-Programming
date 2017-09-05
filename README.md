@@ -110,6 +110,7 @@ Solution of problems on competitive programming websites
 - https://machinelearning.apple.com
 
 # Google
+- https://techdevguide.withgoogle.com/
 - Technical Internships https://careers.google.com/jobs/#t=sq&q=j&so=dt_pd&li=20&l=false&jlo=en-US&je=INTERN&jex=ENTRY_LEVEL&jed=BACHELORS&jc=SOFTWARE_ENGINEERING
 - https://gist.github.com/amaxwell01/3728155
 - https://www.google.com/partners/#p_mobilesitescertification
