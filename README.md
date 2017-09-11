@@ -89,6 +89,8 @@ Solution of problems on competitive programming websites
 - https://hackernoon.com/machine-learning-with-javascript-part-1-9b97f3ed4fe5
 - https://medium.com/udacity/ai-nanodegree-program-syllabus-term-1-in-depth-80c41297acaf
 
+- https://medium.com/preeminence/neural-networks-part-1-af2444ea4dc0
+
 # Internships
 - https://www.cnbc.com/2017/07/26/10-tips-to-be-the-intern-everybody-wants-to-hire.html
 
