@@ -99,6 +99,7 @@ Solution of problems on competitive programming websites
 
 # Jobs and Interviews
 - http://www.geeksforgeeks.org/get-started-technical-interviews/
+- http://www.geeksforgeeks.org/answer-coding-question-interview/
 - http://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/
 - https://techiedelight.quora.com/500-Data-structures-and-algorithms-interview-questions-and-their-solutions
 - https://medium.freecodecamp.com/how-to-write-a-good-resume-in-2017-b8ea9dfdd3b9
