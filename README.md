@@ -109,6 +109,9 @@ Solution of problems on competitive programming websites
 - https://medium.freecodecamp.org/trending-developer-skills-based-on-my-analysis-of-ask-hn-whos-hiring-26c02a3ca1fd
 - https://www.reddit.com/r/cscareerquestions/comments/6enydz/im_gayle_laakmann_mcdowell_author_of_cracking_the/
 
+# Frontend Interview Preparation
+- https://medium.com/front-end-developers/how-to-interview-a-front-end-developer-5f9e3de4e6a5
+
 # Apple
 - https://machinelearning.apple.com
 
