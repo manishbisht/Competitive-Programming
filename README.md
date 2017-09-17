@@ -133,6 +133,7 @@ Solution of problems on competitive programming websites
 - https://www.fastcompany.com/40408179/im-facebooks-head-of-people-heres-what-were-hiring-for-right-now-and-why
 
 # Facebook - Education
+- https://research.fb.com/programs/fellowship/
 - https://www.facebook.com/careers/program/fellowship/
 
 # Spotify
