@@ -38,6 +38,9 @@ Solution of problems on competitive programming websites
 23. Mo's Algorithm: https://blog.anudeep2011.com/mos-algorithm/
 24. Heavy Light Decomposition: https://blog.anudeep2011.com/heavy-light-decomposition
 
+# Free stuff
+- https://blog.docker.com/2017/05/announcing-docker-student-developer-kit-campus-ambassador-program/
+
 # Stanford Online Course
 - http://web.stanford.edu/class/archive/cs/cs161/cs161.1168/
 
