@@ -1,7 +1,8 @@
 # Competitive-Programming
 Solution of problems on competitive programming websites
 
-- https://medium.freecodecamp.com/time-is-complex-but-priceless-f0abd015063c#.jhvtpedq5
+- https://medium.com/coderbyte/how-to-get-good-at-algorithms-data-structures-d33d5163353f
+- https://medium.freecodecamp.com/time-is-complex-but-priceless-f0abd015063c
 - https://algo.is/t-414-aflv-competitive-programming-course-2016/
 - http://codeforces.com/blog/entry/325
 - http://codeforces.com/blog/entry/47822
