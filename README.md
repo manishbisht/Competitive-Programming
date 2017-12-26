@@ -95,6 +95,7 @@ Solution of problems on competitive programming websites
 
 - Podcast https://soundcloud.com/theaipodcast
 - https://medium.com/preeminence/neural-networks-part-1-af2444ea4dc0
+- https://blog.statsbot.co/neural-networks-for-beginners-d99f2235efca
 
 # Internships
 - https://www.cnbc.com/2017/07/26/10-tips-to-be-the-intern-everybody-wants-to-hire.html
