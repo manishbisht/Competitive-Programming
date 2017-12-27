@@ -138,9 +138,10 @@ Solution of problems on competitive programming websites
 - https://hbr.org/2017/07/inside-facebooks-ai-workshop
 - https://www.fastcompany.com/40408179/im-facebooks-head-of-people-heres-what-were-hiring-for-right-now-and-why
 
-# Facebook - Education
+# Facebook - Education and Research
 - https://research.fb.com/programs/fellowship/
 - https://www.facebook.com/careers/program/fellowship/
+- https://research.fb.com/category/facebook-ai-research-fair/
 
 # Spotify
 - https://hrblog.spotify.com/2017/02/17/how-to-get-a-job-at-spotify/
