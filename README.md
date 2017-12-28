@@ -207,6 +207,9 @@ Solution of problems on competitive programming websites
 # Design
 - https://medium.com/@michellechanme/what-i-learned-as-a-design-intern-at-tesla-and-uber-3a357bcb0d51
 
+# System Design
+- http://blog.gainlo.co/index.php/category/system-design-interview-questions/
+
 # Extras
 - https://www.awseducate.com/student
 - https://developers.facebook.com/products/camera-effects/frame-studio/
