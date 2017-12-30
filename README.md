@@ -131,6 +131,9 @@ Solution of problems on competitive programming websites
 - https://magenta.as/a-day-at-google-learning-about-flow-31fa6c645a05
 - https://www.fastcompany.com/3062713/i-hire-engineers-at-google-heres-what-i-look-for-and-why
 
+# Google Developers
+- https://developers.google.com/style/word-list
+
 # Facebook
 - https://www.facebook.com/careers/life/preparing-for-your-software-engineering-interview-at-facebook
 - https://www.techinasia.com/talk/crack-google-facebooks-software-engineering-interview
