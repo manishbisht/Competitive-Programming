@@ -161,6 +161,7 @@ Solution of problems on competitive programming websites
 - https://www.youtube.com/playlist?list=PLNYkxOF6rcIB1V2i_qfRtDMcY6YZK1lkt
 
 # React
+- https://egghead.io/courses/the-beginner-s-guide-to-reactjs
 - https://facebook.github.io/react/tutorial/tutorial.html
 - https://medium.freecodecamp.org/how-to-write-your-first-react-js-component-d728d759cabc
 - https://medium.freecodecamp.com/surge-vs-github-pages-deploying-a-create-react-app-project-c0ecbf317089
