@@ -171,6 +171,10 @@ Solution of problems on competitive programming websites
 - https://www.topcoder.com/blog/getting-started-reactjs/
 - https://medium.freecodecamp.com/a-practical-guide-to-fetch-reduce-and-formatting-data-from-an-external-api-283ddd9bfdcb
 
+# Redux
+- https://egghead.io/courses/getting-started-with-redux
+- https://egghead.io/courses/building-react-applications-with-idiomatic-redux
+
 # Angular JS
 - https://angular-university.io/course/getting-started-with-angular2
 
