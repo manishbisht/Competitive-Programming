@@ -222,6 +222,7 @@ Solution of problems on competitive programming websites
 
 # System Design
 - http://blog.gainlo.co/index.php/category/system-design-interview-questions/
+- https://www.hiredintech.com/system-design
 
 # Hackathon Ideas and Best Projects
 - https://medium.freecodecamp.org/how-we-recreated-amazon-go-in-36-hours-e32a4101d5f0
