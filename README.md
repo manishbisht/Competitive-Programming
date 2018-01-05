@@ -149,6 +149,7 @@ Solution of problems on competitive programming websites
 - https://www.glassdoor.com/blog/want-to-work-at-facebook-lori-goler/
 - https://hbr.org/2017/07/inside-facebooks-ai-workshop
 - https://www.fastcompany.com/40408179/im-facebooks-head-of-people-heres-what-were-hiring-for-right-now-and-why
+- https://medium.freecodecamp.org/software-engineering-interviews-744380f4f2af
 
 # Facebook - Education and Research
 - https://research.fb.com/programs/fellowship/
