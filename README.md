@@ -228,6 +228,9 @@ Solution of problems on competitive programming websites
 # Hackathon Ideas and Best Projects
 - https://medium.freecodecamp.org/how-we-recreated-amazon-go-in-36-hours-e32a4101d5f0
 
+# Udacity Nannodegree Review
+- https://hackernoon.com/a-review-of-udacitys-react-nano-degree-1085273f1a73
+
 # Extras
 - https://www.awseducate.com/student
 - https://developers.facebook.com/products/camera-effects/frame-studio/
