@@ -42,6 +42,9 @@ Solution of problems on competitive programming websites
 # Competitive Programming Syllabus
 - https://discuss.codechef.com/questions/121107/programming-contest-detailed-syllabus-along-with-example-problems
 
+# Data Structures and Algorithms
+- https://medium.freecodecamp.org/i-built-an-app-that-makes-learning-algorithms-and-data-structures-way-more-fun-46fbb8afacaf
+
 # Free stuff
 - https://blog.docker.com/2017/05/announcing-docker-student-developer-kit-campus-ambassador-program/
 
