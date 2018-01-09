@@ -234,6 +234,9 @@ Solution of problems on competitive programming websites
 # Udacity Nannodegree Review
 - https://hackernoon.com/a-review-of-udacitys-react-nano-degree-1085273f1a73
 
+# Startup Ideas
+- https://medium.com/startup-grind/how-to-come-up-with-startup-ideas-that-are-worth-your-time-36cc54b53b5
+
 # Books Reading
 - https://medium.com/swlh/18-books-everyone-will-be-reading-in-2018-82e017d166f
 
