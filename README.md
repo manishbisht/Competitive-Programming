@@ -234,6 +234,9 @@ Solution of problems on competitive programming websites
 # Udacity Nannodegree Review
 - https://hackernoon.com/a-review-of-udacitys-react-nano-degree-1085273f1a73
 
+# Self Improvement
+- https://www.quora.com/How-can-I-improve-myself-in-6-months/answer/Rithik-Singh-2
+
 # Startup Ideas
 - https://medium.com/startup-grind/how-to-come-up-with-startup-ideas-that-are-worth-your-time-36cc54b53b5
 
