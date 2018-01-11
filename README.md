@@ -243,6 +243,9 @@ Solution of problems on competitive programming websites
 # Books Reading
 - https://medium.com/swlh/18-books-everyone-will-be-reading-in-2018-82e017d166f
 
+# Amazon Events and Conferences
+- https://aws.amazon.com/summits/
+
 # Extras
 - https://www.awseducate.com/student
 - https://developers.facebook.com/products/camera-effects/frame-studio/
