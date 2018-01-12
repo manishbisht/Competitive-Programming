@@ -220,6 +220,9 @@ Solution of problems on competitive programming websites
 # Messaging Bots
 - https://chatbotsmagazine.com/you-and-your-bot-a-new-kind-of-lifelong-relationship-6a9649feeb71
 
+# Chrome Developer Tools
+- https://medium.freecodecamp.org/mastering-chrome-developer-tools-next-level-front-end-development-techniques-3ac0b6fe8a3
+
 # Design
 - https://medium.com/@michellechanme/what-i-learned-as-a-design-intern-at-tesla-and-uber-3a357bcb0d51
 - https://medium.muz.li/20-portfolio-designs-that-will-impress-any-client-8fb74689ceb2
