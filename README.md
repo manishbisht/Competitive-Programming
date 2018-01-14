@@ -107,6 +107,9 @@ Solution of problems on competitive programming websites
 - https://medium.com/preeminence/neural-networks-part-1-af2444ea4dc0
 - https://blog.statsbot.co/neural-networks-for-beginners-d99f2235efca
 
+# Machine Learning - PHD
+- https://blog.ycombinator.com/a-guide-to-machine-learning-phds/
+
 # Internships
 - https://www.cnbc.com/2017/07/26/10-tips-to-be-the-intern-everybody-wants-to-hire.html
 
