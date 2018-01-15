@@ -183,6 +183,7 @@ Solution of problems on competitive programming websites
 - https://www.youtube.com/playlist?list=PLNYkxOF6rcIB1V2i_qfRtDMcY6YZK1lkt
 
 # React
+- https://egghead.io/courses/the-beginner-s-guide-to-reactjs
 - https://facebook.github.io/react/tutorial/tutorial.html
 - https://medium.freecodecamp.org/how-to-write-your-first-react-js-component-d728d759cabc
 - https://medium.freecodecamp.com/surge-vs-github-pages-deploying-a-create-react-app-project-c0ecbf317089
@@ -191,6 +192,10 @@ Solution of problems on competitive programming websites
 - https://edgecoders.com/learning-react-js-is-easier-than-you-think-fbd6dc4d935a
 - https://www.topcoder.com/blog/getting-started-reactjs/
 - https://medium.freecodecamp.com/a-practical-guide-to-fetch-reduce-and-formatting-data-from-an-external-api-283ddd9bfdcb
+
+# Redux
+- https://egghead.io/courses/getting-started-with-redux
+- https://egghead.io/courses/building-react-applications-with-idiomatic-redux
 
 # Angular JS
 - https://angular-university.io/course/getting-started-with-angular2
