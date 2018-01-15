@@ -201,6 +201,9 @@ Solution of problems on competitive programming websites
 # CSS
 - https://medium.freecodecamp.org/reducing-css-bundle-size-70-by-cutting-the-class-names-and-using-scope-isolation-625440de600b
 
+# GoLang
+- https://hackr.io/tutorials/learn-golang
+
 # Kotlin
 - https://android.jlelse.eu/handsome-codes-with-kotlin-6e183db4c7e5
 
