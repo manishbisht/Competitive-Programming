@@ -176,6 +176,9 @@ Solution of problems on competitive programming websites
 # Microsoft
 - https://hackernoon.com/thank-you-microsoft-for-the-amazing-software-engineer-internship-407a49b8f816
 
+# NVIDIA
+- https://developer.nvidia.com/developer-program
+
 # Self Driving Car
 - https://medium.com/self-driving-cars/term-1-in-depth-on-udacitys-self-driving-car-curriculum-ffcf46af0c08#.fyy29vejz
 
