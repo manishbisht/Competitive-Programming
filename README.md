@@ -300,3 +300,4 @@ Solution of problems on competitive programming websites
 - https://medium.freecodecamp.com/what-i-learned-from-apple-rejecting-me-for-a-scholarship-to-the-wwdc-952e756ba586
 - https://medium.com/@robaboukhalil/a-tale-of-two-clouds-amazon-vs-google-4f2520516a38
 - https://hackernoon.com/barely-scraping-by-with-a-250-000-salary-in-silicon-valley-d2b5d665c1c0
+- https://magenta.as/a-day-at-google-learning-about-flow-31fa6c645a05
