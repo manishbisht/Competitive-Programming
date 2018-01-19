@@ -262,6 +262,9 @@ Solution of problems on competitive programming websites
 # Books Reading
 - https://medium.com/swlh/18-books-everyone-will-be-reading-in-2018-82e017d166f
 
+# Blog Reading
+- https://medium.com/@DaveSchools/the-60-most-recommended-medium-stories-of-all-time-80a0febc5ac6
+
 # Amazon Events and Conferences
 - https://aws.amazon.com/summits/
 
