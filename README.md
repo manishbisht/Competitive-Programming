@@ -243,7 +243,8 @@ Solution of problems on competitive programming websites
 - https://medium.com/@michellechanme/what-i-learned-as-a-design-intern-at-tesla-and-uber-3a357bcb0d51
 - https://medium.muz.li/20-portfolio-designs-that-will-impress-any-client-8fb74689ceb2
 
-# System Design
+# System/Software Design
+- https://www.careercup.com/page?pid=software-design-interview-questions
 - http://blog.gainlo.co/index.php/category/system-design-interview-questions/
 - https://www.hiredintech.com/system-design
 
