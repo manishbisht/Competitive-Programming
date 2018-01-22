@@ -107,6 +107,7 @@ Solution of problems on competitive programming websites
 - Podcast https://soundcloud.com/theaipodcast
 - https://medium.com/preeminence/neural-networks-part-1-af2444ea4dc0
 - https://blog.statsbot.co/neural-networks-for-beginners-d99f2235efca
+- https://web.stanford.edu/class/cs20si/
 
 # Machine Learning - PHD
 - https://blog.ycombinator.com/a-guide-to-machine-learning-phds/
