@@ -272,6 +272,7 @@ Solution of problems on competitive programming websites
 
 # Amazon Events and Conferences
 - https://aws.amazon.com/summits/
+- https://www.ampproject.org/amp-conf/
 
 # Extras
 - https://www.awseducate.com/student
