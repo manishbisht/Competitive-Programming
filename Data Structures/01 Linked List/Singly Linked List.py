@@ -71,10 +71,11 @@ class SinglyLinkedList:
         new_node.set_data(data)
         current = self.head
 
-        while current is not None:
+        while current.get_next() is not None:
             current = current.get_next()
 
         current.set_next(new_node)
+
 
     # Return the length of the LinkedList
     def list_length(self):
@@ -87,5 +88,21 @@ class SinglyLinkedList:
 
         return count
 
+    # Print the LinkedList
+    def print_list(self):
+        current = self.head
+
+        while current is not None:
+            print current.get_data(),
+            print '->',
+            current = current.get_next()
+        print 'End'
+
 
 LinkedList = SinglyLinkedList()
+LinkedList.insert_at_start(5)
+LinkedList.print_list()
+LinkedList.insert_at_end(10)
+LinkedList.print_list()
+LinkedList.list_insert(1, 50)
+LinkedList.print_list()
