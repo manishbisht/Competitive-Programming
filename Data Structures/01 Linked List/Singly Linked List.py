@@ -76,6 +76,22 @@ class SinglyLinkedList:
 
         current.set_next(new_node)
 
+    # Delete a node from the LinkedList by position
+    def list_delete_position(self, position):
+        if position > self.list_length() or position < 0:
+            print 'Invalid Position'
+        else:
+            count = 0
+            current = self.head
+            previous = self.head
+            while current.get_next() is not None or count <= position:
+                count += 1
+                if count == position:
+                    previous.set_next(current.get_next())
+                    return
+                else:
+                    previous = current
+                    current = current.get_next()
 
     # Return the length of the LinkedList
     def list_length(self):
@@ -105,4 +121,6 @@ LinkedList.print_list()
 LinkedList.insert_at_end(10)
 LinkedList.print_list()
 LinkedList.list_insert(1, 50)
+LinkedList.print_list()
+LinkedList.list_delete_position(2)
 LinkedList.print_list()
