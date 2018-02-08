@@ -114,6 +114,10 @@ class SinglyLinkedList:
             current = current.get_next()
         print 'End'
 
+    # Delete the LinkedList
+    def clear(self):
+        self.head = None
+
 
 LinkedList = SinglyLinkedList()
 LinkedList.insert_at_start(5)
