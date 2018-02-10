@@ -17,8 +17,20 @@ It is a 2D array of size V x V (V = Number of vertices)
   - Space: `O(V ** 2)`
   - Check Edge: `O(1)`
 
+![](https://www.geeksforgeeks.org/wp-content/uploads/adjacency_matrix_representation.png)
+
 ## Adjacency List
 It is the array of linked list (dictionary of list in python).
 
 - Complexity:
   - Space: `O(V + E)`
+
+![](https://www.geeksforgeeks.org/wp-content/uploads/adjacency_list_representation.png)
+
+# Breadth First Traversal or BFS for a Graph
+It is a traversing algorithm that is used to traverse the nodes layerwise. Queue is used in this algorithm.
+
+1. Mark all connected nodes with the current node as visited.
+2. Move to the next layer and do 1 again
+
+![](https://he-s3.s3.amazonaws.com/media/uploads/fdec3c2.jpg)
