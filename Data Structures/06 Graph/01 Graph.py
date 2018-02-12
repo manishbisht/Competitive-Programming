@@ -40,10 +40,10 @@ AdjacencyMatrixGraph.print_graph()
 # Adjacency List Graph Class
 class ListGraph:
     # Constructor
-    def __init__(self, size):
+    def __init__(self, nodes):
         self.data = {}
-        for i in xrange(size):
-            self.data[i] = []
+        for node in nodes:
+            self.data[node] = []
 
     # Add the vertex in the Graph
     def add_vertex(self, u, v):
@@ -54,7 +54,7 @@ class ListGraph:
         print self.data
 
 
-my_list_graph = ListGraph(8)
+my_list_graph = ListGraph(range(8))
 my_list_graph.print_graph()
 my_list_graph.add_vertex(1, 2)
 my_list_graph.add_vertex(1, 4)
