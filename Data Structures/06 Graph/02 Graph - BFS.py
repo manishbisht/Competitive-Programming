@@ -1,17 +1,14 @@
-# Adjacency Matrix Graph Class
-class Graph:
+# Adjacency List Graph Class
+class ListGraph:
     # Constructor
     def __init__(self, size):
-        self.data = []
+        self.data = {}
         for i in xrange(size):
-            temp = []
-            for j in xrange(size):
-                temp.append(0)
-            self.data.append(temp)
+            self.data[i] = []
 
-    # Add the vertex in the graph
+    # Add the vertex in the Graph
     def add_vertex(self, u, v):
-        self.data[u][v] = 1
+        self.data[u].append(v)
 
     # Print graph
     def print_graph(self):
@@ -36,7 +33,7 @@ class Graph:
         return path
 
 
-AdjacencyMatrixGraph = Graph(8)
+AdjacencyMatrixGraph = ListGraph(8)
 AdjacencyMatrixGraph.print_graph()
 AdjacencyMatrixGraph.add_vertex(0, 1)
 AdjacencyMatrixGraph.add_vertex(0, 2)
@@ -47,5 +44,4 @@ AdjacencyMatrixGraph.add_vertex(2, 6)
 AdjacencyMatrixGraph.add_vertex(2, 7)
 AdjacencyMatrixGraph.add_vertex(3, 7)
 AdjacencyMatrixGraph.print_graph()
-#output [0, 1, 2, 3, 4, 5, 6, 7]
 print AdjacencyMatrixGraph.bfs(0)
