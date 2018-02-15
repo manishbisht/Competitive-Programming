@@ -34,3 +34,8 @@ It is a traversing algorithm that is used to traverse the nodes layerwise. Queue
 2. Move to the next layer and do 1 again
 
 ![](https://he-s3.s3.amazonaws.com/media/uploads/fdec3c2.jpg)
+
+# Depth First Traversal or DFS for a Graph
+It is an algorithm for traversing that explores nodes as far as possible along each branch before backtracking. Stack is used in this algorithm.
+
+![](https://he-s3.s3.amazonaws.com/media/uploads/9fa1119.jpg)
