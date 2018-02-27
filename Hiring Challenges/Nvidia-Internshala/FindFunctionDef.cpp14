@@ -1,0 +1,38 @@
+#include <iostream>
+#include<string.h>
+using namespace std;
+
+unsigned int FindFunctionDefn(const char* strFunctionName, const char* strSourceCode) {
+     int lenSourceCode = strlen(strSourceCode);
+     int lenFunctionName = strlen(strFunctionName);
+     int i, j, k, ans = 1, temp;
+     for(i = 0; i < lenSourceCode; i++) {
+         temp = 0;
+         k = i;
+         for(j = 0; j < lenFunctionName; j++) {
+             if(strFunctionName[j] == strSourceCode[k]) {
+                 temp++;
+                 k++;
+             } else {
+                 break;
+             }
+         }
+         if(temp == lenFunctionName && strSourceCode[k] == '(') {
+             return ans;
+         }
+         
+         if(strSourceCode[i + 1] == 'n' && strSourceCode[i] == '\\') {
+             ans++;
+         }
+     }
+     return 0;
+}
+
+int main() {
+    char strFunctionName[] = "func2";
+    char strSourceCode[] = "int func1(){ return 0; }\\n int func2(){ return 1; }\\n int main(int argc, char*argv[]){ return func2(); }\\n"; 
+    cout << FindFunctionDefn(strFunctionName, strSourceCode) << endl;
+    return 0;
+}
+
+// Online Code Link: https://code.hackerearth.com/544ccfO
