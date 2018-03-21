@@ -39,5 +39,8 @@ Solution of problems on competitive programming websites
 23. Mo's Algorithm: https://blog.anudeep2011.com/mos-algorithm/
 24. Heavy Light Decomposition: https://blog.anudeep2011.com/heavy-light-decomposition
 
+# Codechef Certification
+- https://www.codechef.com/certification/prepare
+
 # Competitive Programming Syllabus
 - https://discuss.codechef.com/questions/121107/programming-contest-detailed-syllabus-along-with-example-problems
