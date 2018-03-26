@@ -120,6 +120,7 @@
 - https://research.fb.com/programs/fellowship/
 - https://www.facebook.com/careers/program/fellowship/
 - https://research.fb.com/category/facebook-ai-research-fair/
+- https://research.fb.com/downloads/detectron/
 
 # Spotify
 - https://hrblog.spotify.com/2017/02/17/how-to-get-a-job-at-spotify/
