@@ -226,7 +226,7 @@
 # Blog Reading
 - https://medium.com/@DaveSchools/the-60-most-recommended-medium-stories-of-all-time-80a0febc5ac6
 
-# Amazon Events and Conferences
+# Events and Conferences
 - https://aws.amazon.com/summits/
 - https://www.ampproject.org/amp-conf/
 
