@@ -231,6 +231,9 @@
 - https://aws.amazon.com/summits/
 - https://www.ampproject.org/amp-conf/
 
+# Scholerships
+- https://blog.openai.com/openai-scholars/
+
 # Extras
 - https://www.awseducate.com/student
 - https://developers.facebook.com/products/camera-effects/frame-studio/
