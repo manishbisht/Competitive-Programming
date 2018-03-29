@@ -231,6 +231,9 @@
 - https://aws.amazon.com/summits/
 - https://www.ampproject.org/amp-conf/
 
+# Google I/O
+- https://mustafaali.net/2018/03/25/pro-tips-for-attending-google-io/
+
 # Scholerships
 - https://blog.openai.com/openai-scholars/
 
