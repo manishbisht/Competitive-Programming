@@ -65,6 +65,9 @@
 - https://blog.statsbot.co/neural-networks-for-beginners-d99f2235efca
 - https://web.stanford.edu/class/cs20si/
 
+# Machine Learning - Online Courses
+- https://www.coursera.org/specializations/mathematics-machine-learning
+
 # Machine Learning - PHD
 - https://blog.ycombinator.com/a-guide-to-machine-learning-phds/
 
