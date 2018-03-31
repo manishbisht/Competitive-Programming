@@ -238,6 +238,7 @@
 - https://mustafaali.net/2018/03/25/pro-tips-for-attending-google-io/
 
 # Scholerships
+- https://github.com/tapasweni-pathak/SOC-Programs
 - https://blog.openai.com/openai-scholars/
 
 # Extras
