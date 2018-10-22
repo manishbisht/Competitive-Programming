@@ -30,83 +30,11 @@
 # GitHub
 - https://guides.github.com/introduction/flow/
 
-# Resources
-- https://www.google.com/edu/cs/index.html
-- https://developers.google.com/training/programs/india/
-- https://courses.csail.mit.edu/iap/interview/materials.php
-- https://docs.google.com/document/d/1_dc3Ifg7Gg1LxhiqMMmE9UbTsXpdRiYh4pKILYG2eA4/
-- https://techiedelight.quora.com/500-Data-structures-and-algorithms-interview-questions-and-their-solutions
-- https://www.quora.com/What-should-I-expect-in-a-Software-Engineer-interview-at-Google-and-how-should-I-prepare/answer/Moishe-Lettvin
-- https://medium.freecodecamp.com/this-picture-will-change-the-way-you-learn-to-code-557ac1e109bd
-- https://blog.hackerrank.com/winning-tech-candidates-from-google-facebook/
-- https://medium.com/readers-writers-digest/beginners-guide-to-computer-science-engineering-361ae1682f5c#.u7i2r4vmo
-- https://github.com/jwasham/google-interview-university
-- https://gist.github.com/TSiege/cbb0507082bb18ff7e4b
-- https://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions
-- https://docs.google.com/presentation/d/1Bs8skzUwgkfA30FbejcsWy2DCnD1AkIHNDyQ0sUFpRU/
-- https://www.paysa.com/blog/2017/05/23/33-common-software-engineering-interview-questions/
-- https://blog.devmastery.com/how-to-win-the-coding-interview-71ae7102d685
-- https://medium.com/the-mission/50-best-resources-when-learning-to-code-496cefc29507
-- https://themission.co/50-best-resources-when-learning-to-code-496cefc29507
-
-# Machine Learning
-- https://medium.com/machine-learning-for-humans/why-machine-learning-matters-6164faf1df12
-- https://www.hackerearth.com/practice/machine-learning/data-manipulation-visualisation-r-python/tutorial-data-manipulation-numpy-pandas-python/tutorial/
-- https://research.googleblog.com/2017/05/introducing-tensorflow-research-cloud.html
-- https://www.quora.com/How-do-I-learn-machine-learning-1/answer/Xavier-Amatriain
-- https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471
-- https://www.hackerearth.com/practice/machine-learning/machine-learning-algorithms/beginners-guide-regression-analysis-plot-interpretations/tutorial/
-- https://medium.freecodecamp.com/dive-into-deep-learning-with-these-23-online-courses-bf247d289cc0
-- https://hackernoon.com/machine-learning-with-javascript-part-1-9b97f3ed4fe5
-- https://medium.com/udacity/ai-nanodegree-program-syllabus-term-1-in-depth-80c41297acaf
-
-- Podcast https://soundcloud.com/theaipodcast
-- https://medium.com/preeminence/neural-networks-part-1-af2444ea4dc0
-- https://blog.statsbot.co/neural-networks-for-beginners-d99f2235efca
-- https://web.stanford.edu/class/cs20si/
-
-# Machine Learning - Online Courses
-- https://www.coursera.org/specializations/mathematics-machine-learning
-
-# Machine Learning - PHD
-- https://blog.ycombinator.com/a-guide-to-machine-learning-phds/
-
-# Internships
-- https://www.cnbc.com/2017/07/26/10-tips-to-be-the-intern-everybody-wants-to-hire.html
-
-# Intership to Full-Time
-- https://www.inc.com/anna-meyer/microsoft-ibm-facebook-hr-managers-how-to-get-hired-after-an-internship.html
-
-# Jobs and Interviews
-- http://www.geeksforgeeks.org/get-started-technical-interviews/
-- http://www.geeksforgeeks.org/answer-coding-question-interview/
-- http://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/
-- https://techiedelight.quora.com/500-Data-structures-and-algorithms-interview-questions-and-their-solutions
-- https://medium.freecodecamp.com/how-to-write-a-good-resume-in-2017-b8ea9dfdd3b9
-- https://medium.com/udacity/advice-from-a-recruiter-eaa340685990
-- https://www.quora.com/Career-Advice-How-can-I-get-a-job-at-Facebook-or-Google-in-6-months/answer/Rick-Viscomi
-- https://www.glassdoor.com/blog/winning-resume/
-- https://medium.freecodecamp.org/trending-developer-skills-based-on-my-analysis-of-ask-hn-whos-hiring-26c02a3ca1fd
-- https://www.reddit.com/r/cscareerquestions/comments/6enydz/im_gayle_laakmann_mcdowell_author_of_cracking_the/
-
-# Resume Best Practices
-- https://blogs.microsoft.com/jobs/make-resume-shine/
-
 # Frontend Interview Preparation
 - https://medium.com/front-end-developers/how-to-interview-a-front-end-developer-5f9e3de4e6a5
 
 # Apple
 - https://machinelearning.apple.com
-
-# Google
-- https://techdevguide.withgoogle.com/
-- Technical Internships https://careers.google.com/jobs/#t=sq&q=j&so=dt_pd&li=20&l=false&jlo=en-US&je=INTERN&jex=ENTRY_LEVEL&jed=BACHELORS&jc=SOFTWARE_ENGINEERING
-- https://gist.github.com/amaxwell01/3728155
-- https://www.google.com/partners/#p_mobilesitescertification
-- https://www.quora.com/What-should-I-expect-in-a-Software-Engineer-interview-at-Google-and-how-should-I-prepare/answer/Moishe-Lettvin
-- https://www.quora.com/Companies-like-Facebook-and-Microsoft-are-known-to-be-among-the-best-companies-to-work-for-with-perks-and-benefits-but-what-about-work-life-balance-and-stress-at-work-deadlines-timings-How-stressful-is-it-to-work-at-top-tier-tech-firms/answer/David-Seidman
-- https://magenta.as/a-day-at-google-learning-about-flow-31fa6c645a05
-- https://www.fastcompany.com/3062713/i-hire-engineers-at-google-heres-what-i-look-for-and-why
 
 # Google Developers
 - https://developers.google.com/style/word-list
@@ -149,17 +77,6 @@
 
 # Youtube Playlist
 - https://www.youtube.com/playlist?list=PLNYkxOF6rcIB1V2i_qfRtDMcY6YZK1lkt
-
-# React
-- https://egghead.io/courses/the-beginner-s-guide-to-reactjs
-- https://facebook.github.io/react/tutorial/tutorial.html
-- https://medium.freecodecamp.org/how-to-write-your-first-react-js-component-d728d759cabc
-- https://medium.freecodecamp.com/surge-vs-github-pages-deploying-a-create-react-app-project-c0ecbf317089
-- https://travishorn.com/passing-data-between-classes-components-in-react-4f8fea489f80
-- https://medium.freecodecamp.org/make-react-fast-again-tools-and-techniques-for-speeding-up-your-react-app-7ad39d3c1b82
-- https://edgecoders.com/learning-react-js-is-easier-than-you-think-fbd6dc4d935a
-- https://www.topcoder.com/blog/getting-started-reactjs/
-- https://medium.freecodecamp.com/a-practical-guide-to-fetch-reduce-and-formatting-data-from-an-external-api-283ddd9bfdcb
 
 # Redux
 - https://egghead.io/courses/getting-started-with-redux
