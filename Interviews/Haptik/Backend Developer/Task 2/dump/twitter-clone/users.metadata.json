@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"twitter-clone.users"},{"v":2,"unique":true,"key":{"EMAIL":1},"name":"EMAIL_1","ns":"twitter-clone.users","background":true}],"uuid":"ab7c9966e0464331acb83fac1246fa5d"}

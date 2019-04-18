@@ -1,0 +1,53 @@
+<John>: Hi
+<Adam>: Hi all
+<Steve>: Hi everybody.
+<Bush>: Hello all
+<Ram>: Hi everyone.
+<Ryan>: Hello hello
+<Ram>: How is everyone?
+<John>: Sounds like we have a full house
+<Ram>: Indeed 
+<Adam>: yea, shall we start the meeting?
+<John>: Yea lets do it
+<Steve>: Please give me 5 mins
+<Adam>: Okay, let us know when you are ready
+<Ram>: Can someone tell us the agenda of the meeting
+<John>: We will be discussing next steps of the company
+<John>: and what we can do to build the next big thing
+<Adam>: Sounds like a plan.
+<Ram>: Great, lets get started
+<John>: Steve, are you ready?
+<John>: Lets get started, Steve will join. Adman you want to take the lead?
+<Adam>: Sure, so what are your thoughts on the chatbot industry?
+<Ram>: The chatbot industry is the best
+<John>: Chotbots are going crazy, everyone wants them
+<John>: Facebook and google are just the start
+<Ram>: yea, all companies and users want to use chatbots
+<John>: its the next big thing
+<Adam>: yea, and the backend building for chatbots is super exicting
+<Steve>: who all are in the chatbot space today
+<Ram>: Haptik is the one I know
+<Ryan>: Haptik is cool 😄
+<Bush>: yea, The tech to build chat bots is getting more complex but fun
+<John>: Okay, sounds like everyone is on the same page here
+<John>: Everyone seems to love chatbots
+<Adam>: Yea, I think we should see what all we can use it for
+<John>: Anyone on thoughts on what to use chatbots for?
+<Ram>: I think we should ask Haptik for their learnings
+<Steve>: We can use chatbot for anything, what do the numbers tell us
+<John>: The main numbers I have are from 
+<John>: and those numbers look solid
+<Bush>: Okay, i would say lets chat with industry experts 
+<Ryan>: I know a few people are Haptik
+<Ryan>: I can connet you to them
+<Adam>: Perfect, connect John and me
+<John>: Yea pelase do so Ryan
+<Ram>: great, good meeting guys
+<Bush>: Great meeting all
+<Steve>: Thanks all
+<Ryan>: Thanks all
+<Ryan>: Bye
+
+
+
+
