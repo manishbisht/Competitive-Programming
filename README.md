@@ -156,7 +156,7 @@
 # Google I/O
 - https://mustafaali.net/2018/03/25/pro-tips-for-attending-google-io/
 
-# Scholerships
+# Scholarships
 - https://github.com/tapasweni-pathak/SOC-Programs
 - https://blog.openai.com/openai-scholars/
 
