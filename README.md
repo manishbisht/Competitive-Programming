@@ -93,6 +93,9 @@
 
 # CSS
 - https://medium.freecodecamp.org/reducing-css-bundle-size-70-by-cutting-the-class-names-and-using-scope-isolation-625440de600b
+- https://css-tricks.com/
+- https://flexboxfroggy.com/
+- http://cssgridgarden.com/
 
 # GoLang
 - https://hackr.io/tutorials/learn-golang
