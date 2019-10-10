@@ -42,6 +42,9 @@
 
 # Web Development
 - https://developers.google.com/web/ilt/pwa/
+- https://hackernoon.com/the-2019-web-developer-roadmap-ab89ac3c380e
+- https://medium.com/@sunilsandhu/the-web-developer-roadmap-for-2019-692cb02d36a4
+- https://medium.com/zerotomastery/web-developer-monthly-july-2019-a65ac4c1e223 
 
 # GitHub
 - https://guides.github.com/introduction/flow/
