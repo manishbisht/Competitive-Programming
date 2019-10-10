@@ -36,6 +36,9 @@
 - https://github.com/LambdaSchool/Intro-Python-I
 - https://automatetheboringstuff.com/
 - https://realpython.com
+- https://awesome-python.com/
+- https://tutorial.djangogirls.org/en/
+- https://www.learnpython.org/
 
 # Web Development
 - https://developers.google.com/web/ilt/pwa/
