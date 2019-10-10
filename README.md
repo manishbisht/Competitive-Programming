@@ -8,6 +8,14 @@
 # Stanford Online Course
 - http://web.stanford.edu/class/archive/cs/cs161/cs161.1168/
 
+# Competitive Programming Sites
+- https://www.hackerrank.com/
+- https://www.hackerearth.com
+- https://codesignal.com/
+- https://coderbyte.com/
+- https://www.codechef.com/
+- https://www.spoj.com/
+
 # Javascript
 - https://medium.freecodecamp.com/my-giant-javascript-basics-course-is-now-live-on-youtube-and-its-100-free-9020a21bbc27
 - https://medium.freecodecamp.com/a-step-by-step-guide-to-making-pure-css-tooltips-3d5a3e237346
@@ -28,9 +36,15 @@
 - https://github.com/LambdaSchool/Intro-Python-I
 - https://automatetheboringstuff.com/
 - https://realpython.com
+- https://awesome-python.com/
+- https://tutorial.djangogirls.org/en/
+- https://www.learnpython.org/
 
 # Web Development
 - https://developers.google.com/web/ilt/pwa/
+- https://hackernoon.com/the-2019-web-developer-roadmap-ab89ac3c380e
+- https://medium.com/@sunilsandhu/the-web-developer-roadmap-for-2019-692cb02d36a4
+- https://medium.com/zerotomastery/web-developer-monthly-july-2019-a65ac4c1e223 
 
 # GitHub
 - https://guides.github.com/introduction/flow/
