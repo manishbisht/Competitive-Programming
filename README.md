@@ -23,15 +23,16 @@
 - https://developers.google.com/edu/python/
 - https://pythonschool.net/
 - https://medium.com/@ageitgey/quick-tip-speed-up-your-python-data-processing-scripts-with-process-pools-cf275350163a
+-https://github.com/LambdaSchool/Intro-Python-I
 
 # Web Development
 - https://developers.google.com/web/ilt/pwa/
 
 # GitHub
 - https://guides.github.com/introduction/flow/
+- https://codeburst.io/git-good-part-a-e0d826286a2a
+- https://codeburst.io/git-good-a-practical-introduction-to-git-and-github-in-git-we-trust-f18fa263ec48  
 
-# Frontend Interview Preparation
-- https://medium.com/front-end-developers/how-to-interview-a-front-end-developer-5f9e3de4e6a5
 
 # Apple
 - https://machinelearning.apple.com
