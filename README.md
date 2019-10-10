@@ -16,6 +16,7 @@
 - https://medium.freecodecamp.com/javascript-arrays-and-objects-are-just-like-books-and-newspapers-6e1cbd8a1746
 - https://medium.freecodecamp.org/a-practical-guide-to-fetch-reduce-and-formatting-data-from-an-external-api-283ddd9bfdcb
 - http://www.javascriptgrammar.com/?v=bio
+- https://javascript.info/
 
 # Javascript Style Guide
 - https://codeburst.io/5-javascript-style-guides-including-airbnb-github-google-88cbc6b2b7aa
