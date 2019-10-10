@@ -23,6 +23,7 @@
 - https://developers.google.com/edu/python/
 - https://pythonschool.net/
 - https://medium.com/@ageitgey/quick-tip-speed-up-your-python-data-processing-scripts-with-process-pools-cf275350163a
+-https://github.com/LambdaSchool/Intro-Python-I
 
 # Web Development
 - https://developers.google.com/web/ilt/pwa/
