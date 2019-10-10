@@ -15,6 +15,7 @@
 - https://github.com/getify/You-Dont-Know-JS
 - https://medium.freecodecamp.com/javascript-arrays-and-objects-are-just-like-books-and-newspapers-6e1cbd8a1746
 - https://medium.freecodecamp.org/a-practical-guide-to-fetch-reduce-and-formatting-data-from-an-external-api-283ddd9bfdcb
+- http://www.javascriptgrammar.com/?v=bio
 
 # Javascript Style Guide
 - https://codeburst.io/5-javascript-style-guides-including-airbnb-github-google-88cbc6b2b7aa
@@ -155,7 +156,7 @@
 # Google I/O
 - https://mustafaali.net/2018/03/25/pro-tips-for-attending-google-io/
 
-# Scholerships
+# Scholarships
 - https://github.com/tapasweni-pathak/SOC-Programs
 - https://blog.openai.com/openai-scholars/
 
