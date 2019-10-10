@@ -8,6 +8,14 @@
 # Stanford Online Course
 - http://web.stanford.edu/class/archive/cs/cs161/cs161.1168/
 
+# Competitive Programming Sites
+- https://www.hackerrank.com/
+- https://www.hackerearth.com
+- https://codesignal.com/
+- https://coderbyte.com/
+- https://www.codechef.com/
+- https://www.spoj.com/
+
 # Javascript
 - https://medium.freecodecamp.com/my-giant-javascript-basics-course-is-now-live-on-youtube-and-its-100-free-9020a21bbc27
 - https://medium.freecodecamp.com/a-step-by-step-guide-to-making-pure-css-tooltips-3d5a3e237346
