@@ -87,6 +87,7 @@
 
 # Microsoft
 - https://hackernoon.com/thank-you-microsoft-for-the-amazing-software-engineer-internship-407a49b8f816
+- https://cloudsociety.microsoft.com/en/login/
 
 # NVIDIA
 - https://developer.nvidia.com/developer-program
