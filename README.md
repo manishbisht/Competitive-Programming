@@ -1,6 +1,7 @@
 # Data Structures and Algorithms
 - https://medium.freecodecamp.org/i-built-an-app-that-makes-learning-algorithms-and-data-structures-way-more-fun-46fbb8afacaf
 - http://www.ideserve.co.in/
+- https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513
 
 # Free stuff
 - https://blog.docker.com/2017/05/announcing-docker-student-developer-kit-campus-ambassador-program/
