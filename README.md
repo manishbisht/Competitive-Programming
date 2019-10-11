@@ -30,6 +30,7 @@
 - https://codeburst.io/5-javascript-style-guides-including-airbnb-github-google-88cbc6b2b7aa
 
 # Python
+- https://docs.python.org/3/index.html
 - https://developers.google.com/edu/python/
 - https://pythonschool.net/
 - https://medium.com/@ageitgey/quick-tip-speed-up-your-python-data-processing-scripts-with-process-pools-cf275350163a
