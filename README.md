@@ -51,7 +51,9 @@
 - https://guides.github.com/introduction/flow/
 - https://codeburst.io/git-good-part-a-e0d826286a2a
 - https://codeburst.io/git-good-a-practical-introduction-to-git-and-github-in-git-we-trust-f18fa263ec48  
-
+- https://lab.github.com/
+- https://learngitbranching.js.org/
+- https://www.codecademy.com/learn/learn-git
 
 # Apple
 - https://machinelearning.apple.com
