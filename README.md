@@ -5,6 +5,7 @@
 
 # Free stuff
 - https://blog.docker.com/2017/05/announcing-docker-student-developer-kit-campus-ambassador-program/
+- http://www.allitebooks.org/
 
 # Stanford Online Course
 - http://web.stanford.edu/class/archive/cs/cs161/cs161.1168/
