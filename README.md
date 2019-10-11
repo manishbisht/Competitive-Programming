@@ -8,6 +8,7 @@
 
 # Stanford Online Course
 - http://web.stanford.edu/class/archive/cs/cs161/cs161.1168/
+- http://online.stanford.edu/courses
 
 # Competitive Programming Sites
 - https://www.hackerrank.com/
