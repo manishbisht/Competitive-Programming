@@ -118,6 +118,7 @@
 
 # GoLang
 - https://hackr.io/tutorials/learn-golang
+- https://golang.org/doc/
 
 # Kotlin
 - https://android.jlelse.eu/handsome-codes-with-kotlin-6e183db4c7e5
