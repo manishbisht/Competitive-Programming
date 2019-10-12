@@ -1,12 +1,15 @@
 # Data Structures and Algorithms
 - https://medium.freecodecamp.org/i-built-an-app-that-makes-learning-algorithms-and-data-structures-way-more-fun-46fbb8afacaf
 - http://www.ideserve.co.in/
+- https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513
 
 # Free stuff
 - https://blog.docker.com/2017/05/announcing-docker-student-developer-kit-campus-ambassador-program/
+- http://www.allitebooks.org/
 
 # Stanford Online Course
 - http://web.stanford.edu/class/archive/cs/cs161/cs161.1168/
+- http://online.stanford.edu/courses
 
 # Competitive Programming Sites
 - https://www.hackerrank.com/
@@ -30,6 +33,7 @@
 - https://codeburst.io/5-javascript-style-guides-including-airbnb-github-google-88cbc6b2b7aa
 
 # Python
+- https://docs.python.org/3/index.html
 - https://developers.google.com/edu/python/
 - https://pythonschool.net/
 - https://medium.com/@ageitgey/quick-tip-speed-up-your-python-data-processing-scripts-with-process-pools-cf275350163a
@@ -50,7 +54,9 @@
 - https://guides.github.com/introduction/flow/
 - https://codeburst.io/git-good-part-a-e0d826286a2a
 - https://codeburst.io/git-good-a-practical-introduction-to-git-and-github-in-git-we-trust-f18fa263ec48  
-
+- https://lab.github.com/
+- https://learngitbranching.js.org/
+- https://www.codecademy.com/learn/learn-git
 
 # Apple
 - https://machinelearning.apple.com
@@ -84,6 +90,7 @@
 
 # Microsoft
 - https://hackernoon.com/thank-you-microsoft-for-the-amazing-software-engineer-internship-407a49b8f816
+- https://cloudsociety.microsoft.com/en/login/
 
 # NVIDIA
 - https://developer.nvidia.com/developer-program
@@ -115,6 +122,7 @@
 
 # GoLang
 - https://hackr.io/tutorials/learn-golang
+- https://golang.org/doc/
 
 # Kotlin
 - https://android.jlelse.eu/handsome-codes-with-kotlin-6e183db4c7e5
