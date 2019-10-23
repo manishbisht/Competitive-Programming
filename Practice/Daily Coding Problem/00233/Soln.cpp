@@ -4,12 +4,9 @@ using namespace std;
 
 typedef long long ll;
 
-int main()
-{
-	ll  n;
-	cin>>n;
+ll fib(ll n){
 	ll a=1, b=1;
-	int temp;
+	ll temp;
 	for(int i=1; i<n; ++i)
 	{
 		b+=a;
@@ -18,7 +15,13 @@ int main()
 		a = temp;
 		
 	}
+	return b;
+}
 
-	cout<<b;
+int main()
+{
+	ll  n;
+	cin>>n;
+	cout<<fib(n);
 	return 0;
 }
