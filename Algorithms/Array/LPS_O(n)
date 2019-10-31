@@ -1,0 +1,54 @@
+//Returns Longest Palindrome Subsequence length. 
+//Time Complexity O(n).
+int LPSManchers(string input) {
+    char forOddPalindrome = '-';
+    //Uncomment the next line for odd length palindromes only. 
+    //forOddPalindrome = '$'; 
+    
+    string newInput = "$";
+    for(int i = 0; i < input.length(); i++) {
+        newInput += input[i];
+        newInput += '$';
+    }
+    input = newInput;
+
+    int length = input.length();
+    int T[length];
+    for(int i = 0; i < length; i++)  {
+        T[i] = 0;
+    }
+    int start = 0;
+    int end = 0;
+    for(int i = 0; i < length; ) {
+        while((start > 0) && (end < length - 1) && (input[start-1] == input[end+1])) {
+            start--;
+            end++;
+        }
+        T[i] = end - start + 1;
+        if(end == length - 1) {
+            break;
+        }
+        int newCenter = end + (i%2 == 0 ? 1 : 0);
+        for(int j = i + 1; j <= end; j++) {
+            T[j] = min(T[i - (j - i)], 2 * (end - j) + 1);
+            if(j + T[i - (j - i)]/2 == end) {
+                newCenter = j;
+                break;
+            }
+        }
+        i = newCenter;
+        end = i + T[i]/2;
+        start = i - T[i]/2;
+    }
+    int max = INT_MIN;
+    for(int i = 0; i < length; i++) {
+        if(input[i] != forOddPalindrome) {
+            int val;
+            val = T[i]/2;
+            if(max < val) {
+                max = val;
+            }
+        }
+    }
+    return max;
+}
