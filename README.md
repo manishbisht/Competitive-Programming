@@ -1,37 +1,63 @@
 # Data Structures and Algorithms
 - https://medium.freecodecamp.org/i-built-an-app-that-makes-learning-algorithms-and-data-structures-way-more-fun-46fbb8afacaf
 - http://www.ideserve.co.in/
+- https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513
 
 # Free stuff
 - https://blog.docker.com/2017/05/announcing-docker-student-developer-kit-campus-ambassador-program/
+- http://www.allitebooks.org/
 
 # Stanford Online Course
 - http://web.stanford.edu/class/archive/cs/cs161/cs161.1168/
+- http://online.stanford.edu/courses
+
+# Competitive Programming Sites
+- https://www.hackerrank.com/
+- https://www.hackerearth.com
+- https://codesignal.com/
+- https://coderbyte.com/
+- https://www.codechef.com/
+- https://www.spoj.com/
 
 # Javascript
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide
 - https://medium.freecodecamp.com/my-giant-javascript-basics-course-is-now-live-on-youtube-and-its-100-free-9020a21bbc27
 - https://medium.freecodecamp.com/a-step-by-step-guide-to-making-pure-css-tooltips-3d5a3e237346
 - https://medium.freecodecamp.com/grabs-front-end-guide-for-large-teams-484d4033cc41
 - https://github.com/getify/You-Dont-Know-JS
 - https://medium.freecodecamp.com/javascript-arrays-and-objects-are-just-like-books-and-newspapers-6e1cbd8a1746
 - https://medium.freecodecamp.org/a-practical-guide-to-fetch-reduce-and-formatting-data-from-an-external-api-283ddd9bfdcb
+- http://www.javascriptgrammar.com/?v=bio
+- https://javascript.info/
 
 # Javascript Style Guide
 - https://codeburst.io/5-javascript-style-guides-including-airbnb-github-google-88cbc6b2b7aa
 
 # Python
+- https://docs.python.org/3/index.html
 - https://developers.google.com/edu/python/
 - https://pythonschool.net/
 - https://medium.com/@ageitgey/quick-tip-speed-up-your-python-data-processing-scripts-with-process-pools-cf275350163a
+- https://github.com/LambdaSchool/Intro-Python-I
+- https://automatetheboringstuff.com/
+- https://realpython.com
+- https://awesome-python.com/
+- https://tutorial.djangogirls.org/en/
+- https://www.learnpython.org/
 
 # Web Development
 - https://developers.google.com/web/ilt/pwa/
+- https://hackernoon.com/the-2019-web-developer-roadmap-ab89ac3c380e
+- https://medium.com/@sunilsandhu/the-web-developer-roadmap-for-2019-692cb02d36a4
+- https://medium.com/zerotomastery/web-developer-monthly-july-2019-a65ac4c1e223 
 
 # GitHub
 - https://guides.github.com/introduction/flow/
-
-# Frontend Interview Preparation
-- https://medium.com/front-end-developers/how-to-interview-a-front-end-developer-5f9e3de4e6a5
+- https://codeburst.io/git-good-part-a-e0d826286a2a
+- https://codeburst.io/git-good-a-practical-introduction-to-git-and-github-in-git-we-trust-f18fa263ec48  
+- https://lab.github.com/
+- https://learngitbranching.js.org/
+- https://www.codecademy.com/learn/learn-git
 
 # Apple
 - https://machinelearning.apple.com
@@ -65,6 +91,7 @@
 
 # Microsoft
 - https://hackernoon.com/thank-you-microsoft-for-the-amazing-software-engineer-internship-407a49b8f816
+- https://cloudsociety.microsoft.com/en/login/
 
 # NVIDIA
 - https://developer.nvidia.com/developer-program
@@ -90,9 +117,13 @@
 
 # CSS
 - https://medium.freecodecamp.org/reducing-css-bundle-size-70-by-cutting-the-class-names-and-using-scope-isolation-625440de600b
+- https://css-tricks.com/
+- https://flexboxfroggy.com/
+- http://cssgridgarden.com/
 
 # GoLang
 - https://hackr.io/tutorials/learn-golang
+- https://golang.org/doc/
 
 # Kotlin
 - https://android.jlelse.eu/handsome-codes-with-kotlin-6e183db4c7e5
@@ -154,7 +185,7 @@
 # Google I/O
 - https://mustafaali.net/2018/03/25/pro-tips-for-attending-google-io/
 
-# Scholerships
+# Scholarships
 - https://github.com/tapasweni-pathak/SOC-Programs
 - https://blog.openai.com/openai-scholars/
 
