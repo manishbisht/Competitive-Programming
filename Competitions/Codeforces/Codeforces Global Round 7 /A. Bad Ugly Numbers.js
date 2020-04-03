@@ -1,0 +1,1 @@
+let t = parseInt(readline())
