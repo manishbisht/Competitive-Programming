@@ -1,3 +1,5 @@
+# Problem 220
+
 This problem was asked by Square.
 
 In front of you is a row of N coins, with values v1, v1, ..., vn.

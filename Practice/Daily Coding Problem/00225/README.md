@@ -1,3 +1,5 @@
+# Problem 225
+
 This problem was asked by Bloomberg.
 
 There are N prisoners standing in a circle, waiting to be executed. The executions are carried out starting with the kth person, and removing every successive kth person going clockwise until there is no one left.
