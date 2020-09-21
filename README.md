@@ -44,6 +44,7 @@
 - https://awesome-python.com/
 - https://tutorial.djangogirls.org/en/
 - https://www.learnpython.org/
+- https://www.programiz.com/
 
 # Web Development
 - https://developers.google.com/web/ilt/pwa/
