@@ -63,7 +63,7 @@
 |Sets|Easy|[Check Subset](https://www.hackerrank.com/challenges/py-check-subset/problem)|[The Captain's Room.py ](https://github.com/Kushal997-das/Competitive-Programming/blob/master/Hackerrank_python/4.sets/39.Check%20Subset.py)|
 |Sets|Easy|[Check Strict Superset](https://www.hackerrank.com/challenges/py-check-strict-superset/problem)|[Check Strict Superset.py ](https://github.com/Kushal997-das/Competitive-Programming/blob/master/Hackerrank_python/4.sets/40.Check%20Strict%20Superset.py)|
 
-> 4.Math<br>
+> 5.Math<br>
 
 | Subdomain | Difficulty | Problem link | Solution |
 |:---------:|:----------:|:-----------: |:--------:|
@@ -75,4 +75,28 @@
 |Math|Medium|[Triangle Quest](https://www.hackerrank.com/challenges/python-quest-1/problem)|[python-quest-1.py](https://github.com/Kushal997-das/Competitive-Programming/blob/master/Hackerrank_python/5.math/46.Triangle%20Quest.py)|
 |Math|Medium|[Triangle Quest 2](https://www.hackerrank.com/challenges/triangle-quest-2/problem)|[triangle-quest-2.py](https://github.com/Kushal997-das/Competitive-Programming/blob/master/Hackerrank_python/5.math/47.Triangle%20Quest%202.py)|
 
+> 6.itertools<br>
+
+| Subdomain | Difficulty | Problem link | Solution |
+|:---------:|:----------:|:-----------: |:--------:|
+|Itertools|Easy|[itertools.product()](https://www.hackerrank.com/challenges/itertools-product/problem)|[itertools-product.py](https://github.com/Kushal997-das/Competitive-Programming/blob/master/Hackerrank_python/6.itertools/48.itertools.product().py)|
+|Itertools|Easy|[itertools.permutations()](https://www.hackerrank.com/challenges/itertools-permutations/problem)|[itertools-permutations.py](https://github.com/Kushal997-das/Competitive-Programming/blob/master/Hackerrank_python/6.itertools/49.itertools.permutations().py)|
+|Itertools|Easy|[itertools.combinations()](https://www.hackerrank.com/challenges/itertools-combinations/problem)|[itertools-combinations.py](https://github.com/Kushal997-das/Competitive-Programming/blob/master/Hackerrank_python/6.itertools/50.itertools.combinations().py)|
+|Itertools|Easy|[itertools.combinations_with_replacement()](https://www.hackerrank.com/challenges/itertools-combinations-with-replacement/problem)|[itertools-combinations-with-replacement.py](https://github.com/Kushal997-das/Competitive-Programming/blob/master/Hackerrank_python/6.itertools/51.itertools.combinations_with_replacement().py)|
+|Itertools|Medium|[Compress the String!](https://www.hackerrank.com/challenges/compress-the-string/problem)|[compress-the-string.py](https://github.com/Kushal997-das/Competitive-Programming/blob/master/Hackerrank_python/6.itertools/52.Compress%20the%20String!.py)|
+|Itertools|Medium|[Iterables and Iterators](https://www.hackerrank.com/challenges/iterables-and-iterators/problem)|[iterables-and-iterators.py](https://github.com/Kushal997-das/Competitive-Programming/blob/master/Hackerrank_python/6.itertools/53.Iterables%20and%20Iterators.py)|
+|Itertools|Hard|[Maximize It!](https://www.hackerrank.com/challenges/maximize-it/problem)|[maximize-it.py](https://github.com/Kushal997-das/Competitive-Programming/blob/master/Hackerrank_python/6.itertools/54.Maximize%20It!.py)|
+
+> 7.collections<br>
+
+| Subdomain | Difficulty | Problem link | Solution |
+|:---------:|:----------:|:-----------: |:--------:|
+|Collections|Easy|[collections.Counter()](https://www.hackerrank.com/challenges/collections-counter/problem)|[collections-counter.py](https://github.com/Kushal997-das/Competitive-Programming/blob/master/Hackerrank_python/7.collections/55.collections.Counter().py)|
+|Collections|Easy|[DefaultDict Tutorial](https://www.hackerrank.com/challenges/defaultdict-tutorial/problem)|[defaultdict-tutorial.py](https://github.com/Kushal997-das/Competitive-Programming/blob/master/Hackerrank_python/7.collections/56.DefaultDict%20Tutorial.py)|
+|Collections|Easy|[Collections.namedtuple()](https://www.hackerrank.com/challenges/py-collections-namedtuple/problem)|[py-collections-namedtuple.py](https://github.com/Kushal997-das/Competitive-Programming/blob/master/Hackerrank_python/7.collections/57.Collections.namedtuple().py)|
+|Collections|Easy|[Collections.OrderedDict()](https://www.hackerrank.com/challenges/py-collections-ordereddict/problem)|[py-collections-ordereddict.py](https://github.com/Kushal997-das/Competitive-Programming/blob/master/Hackerrank_python/7.collections/58.Collections.OrderedDict().py)|
+|Collections|Medium|[Word Order](https://www.hackerrank.com/challenges/word-order/problem)|[word-order.py](https://github.com/Kushal997-das/Competitive-Programming/blob/master/Hackerrank_python/7.collections/59.Word%20Order.py)|
+|Collections|Easy|[Collections.deque()](https://www.hackerrank.com/challenges/py-collections-deque/problem)|[py-collections-deque.py](https://github.com/Kushal997-das/Competitive-Programming/blob/master/Hackerrank_python/7.collections/60.Collections.deque().py)|
+|Collections|Medium|[Company Logo](https://www.hackerrank.com/challenges/most-commons/problem)|[most-commons.py](https://github.com/Kushal997-das/Competitive-Programming/blob/master/Hackerrank_python/7.collections/61.Company%20Logo.py)|
+|Collections|Medium|[Piling Up!](https://www.hackerrank.com/challenges/piling-up/problem)|[piling-up.py](https://github.com/Kushal997-das/Competitive-Programming/blob/master/Hackerrank_python/7.collections/62.Piling%20Up!.py)|
 
