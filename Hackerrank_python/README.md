@@ -3,7 +3,7 @@
 
 
 ## Python <br>
-> 1.Introduction
+> 1.Introduction <br>
 
 | Subdomain | Difficulty | Problem link | Solution |
 |:---------:|:----------:|:-----------: |:--------:|
@@ -62,4 +62,17 @@
 |Sets|Easy|[The Captain's Room](https://www.hackerrank.com/challenges/py-the-captains-room/problem)|[The Captain's Room.py](https://github.com/Kushal997-das/Competitive-Programming/blob/master/Hackerrank_python/4.sets/38.The%20Captain's%20Room.py)|
 |Sets|Easy|[Check Subset](https://www.hackerrank.com/challenges/py-check-subset/problem)|[The Captain's Room.py ](https://github.com/Kushal997-das/Competitive-Programming/blob/master/Hackerrank_python/4.sets/39.Check%20Subset.py)|
 |Sets|Easy|[Check Strict Superset](https://www.hackerrank.com/challenges/py-check-strict-superset/problem)|[Check Strict Superset.py ](https://github.com/Kushal997-das/Competitive-Programming/blob/master/Hackerrank_python/4.sets/40.Check%20Strict%20Superset.py)|
+
+> 4.Math<br>
+
+| Subdomain | Difficulty | Problem link | Solution |
+|:---------:|:----------:|:-----------: |:--------:|
+|Math|Easy|[Polar Coordinates](https://www.hackerrank.com/challenges/polar-coordinates/problem)|[polar-coordinates.py](https://github.com/Kushal997-das/Competitive-Programming/blob/master/Hackerrank_python/5.math/41.Polar%20Coordinates.py)|
+|Math|Medium|[Find Angle MBC](https://www.hackerrank.com/challenges/find-angle/problem)|[find-angle.py](https://github.com/Kushal997-das/Competitive-Programming/blob/master/Hackerrank_python/5.math/42.Find%20Angle%20MBC.py)|
+|Math|Easy|[Mod Divmod](https://www.hackerrank.com/challenges/python-mod-divmod/problem)|[python-mod-divmod.py](https://github.com/Kushal997-das/Competitive-Programming/blob/master/Hackerrank_python/5.math/43.Mod%20Divmod.py)|
+|Math|Easy|[Power - Mod Power](https://www.hackerrank.com/challenges/python-power-mod-power/problem)|[python-power-mod-power.py](https://github.com/Kushal997-das/Competitive-Programming/blob/master/Hackerrank_python/5.math/44.Power%20-%20Mod%20Power.py)|
+|Math|Easy|[Integers Come In All Sizes](https://www.hackerrank.com/challenges/python-integers-come-in-all-sizes/problem)|[python-integers-come-in-all-sizes.py](https://github.com/Kushal997-das/Competitive-Programming/blob/master/Hackerrank_python/5.math/45.Integers%20Come%20In%20All%20Sizes.py)|
+|Math|Medium|[Triangle Quest](https://www.hackerrank.com/challenges/python-quest-1/problem)|[python-quest-1.py](https://github.com/Kushal997-das/Competitive-Programming/blob/master/Hackerrank_python/5.math/46.Triangle%20Quest.py)|
+|Math|Medium|[Triangle Quest 2](https://www.hackerrank.com/challenges/triangle-quest-2/problem)|[triangle-quest-2.py](https://github.com/Kushal997-das/Competitive-Programming/blob/master/Hackerrank_python/5.math/47.Triangle%20Quest%202.py)|
+
 
