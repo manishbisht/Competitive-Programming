@@ -100,3 +100,24 @@
 |Collections|Medium|[Company Logo](https://www.hackerrank.com/challenges/most-commons/problem)|[most-commons.py](https://github.com/Kushal997-das/Competitive-Programming/blob/master/Hackerrank_python/7.collections/61.Company%20Logo.py)|
 |Collections|Medium|[Piling Up!](https://www.hackerrank.com/challenges/piling-up/problem)|[piling-up.py](https://github.com/Kushal997-das/Competitive-Programming/blob/master/Hackerrank_python/7.collections/62.Piling%20Up!.py)|
 
+> 8.Date and time<br>
+
+| Subdomain | Difficulty | Problem link | Solution |
+|:---------:|:----------:|:-----------: |:--------:|
+|Date and Time|Easy|[Calendar Module](https://www.hackerrank.com/challenges/calendar-module/problem)|[calendar-module.py](https://github.com/Kushal997-das/Competitive-Programming/blob/master/Hackerrank_python/8.Date%20and%20time/63.Calendar%20Module.py)|
+|Date and Time|Medium|[Time Delta](https://www.hackerrank.com/challenges/python-time-delta/problem)|[python-time-delta.py](https://github.com/Kushal997-das/Competitive-Programming/blob/master/Hackerrank_python/8.Date%20and%20time/64.Time%20Delta.py)|
+
+> 9.erros and exceptions<br>
+
+| Subdomain | Difficulty | Problem link | Solution |
+|:---------:|:----------:|:-----------: |:--------:|
+|Errors and Exceptions|Easy|[Exceptions](https://www.hackerrank.com/challenges/exceptions/problem)|[exceptions.py](https://github.com/Kushal997-das/Competitive-Programming/blob/master/Hackerrank_python/9.erros%20and%20exceptions/65.Exceptions.py)|
+|Errors and Exceptions|Easy|[Incorrect Regex](https://www.hackerrank.com/challenges/incorrect-regex/problem)|[incorrect-regex.py](https://github.com/Kushal997-das/Competitive-Programming/blob/master/Hackerrank_python/9.erros%20and%20exceptions/66.Incorrect%20Regex.py)|
+
+> 10.Classes<br>
+
+| Subdomain | Difficulty | Problem link | Solution |
+|:---------:|:----------:|:-----------: |:--------:|
+|Classes|Medium|[Classes: Dealing with Complex Numbers](https://www.hackerrank.com/challenges/class-1-dealing-with-complex-numbers/problem)|[class-1-dealing-with-complex-numbers.py](https://github.com/Kushal997-das/Competitive-Programming/blob/master/Hackerrank_python/11.Classes/75.Classes_%20Dealing%20with%20Complex%20Numbers.py)|
+|Classes|Easy|[Class 2 - Find the Torsional Angle](https://www.hackerrank.com/challenges/class-2-find-the-torsional-angle/problem)|[class-2-find-the-torsional-angle.py](https://github.com/Kushal997-das/Competitive-Programming/blob/master/Hackerrank_python/11.Classes/76.Class%202%20-%20Find%20the%20Torsional%20Angle.py)|
+
