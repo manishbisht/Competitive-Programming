@@ -201,3 +201,4 @@
 |:---------:|:----------:|:-----------: |:--------:|
 |Debugging|Medium|[Words Score](https://www.hackerrank.com/challenges/words-score/problem)|[words-score.py](https://github.com/Kushal997-das/Competitive-Programming/blob/master/Hackerrank_python/17.debugging/1.Words%20Score.py)|
 |Debugging|Medium|[Default Arguments](https://www.hackerrank.com/challenges/default-arguments/problem)|[default-arguments.py](https://github.com/Kushal997-das/Competitive-Programming/blob/master/Hackerrank_python/17.debugging/2.Default%20Arguments.py)|
+
