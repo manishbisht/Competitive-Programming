@@ -161,3 +161,45 @@
 |Regex and Parsing|Medium|[Validating Credit Card Numbers](https://www.hackerrank.com/challenges/validating-credit-card-number/problem)|[validating-credit-card-number.py](https://github.com/Kushal997-das/Competitive-Programming/blob/master/Hackerrank_python/13.Regex%20and%20Parsing/94.Validating%20Credit%20Card%20Numbers.py)|
 |Regex and Parsing|Hard|[Validating Postal Codes](https://www.hackerrank.com/challenges/validating-postalcode/problem)|[validating-postalcode.py](https://github.com/Kushal997-das/Competitive-Programming/blob/master/Hackerrank_python/13.Regex%20and%20Parsing/95.Validating%20Postal%20Codes.py)|
 |Regex and Parsing|Hard|[Matrix Script](https://www.hackerrank.com/challenges/matrix-script/problem)|[matrix-script.py](https://github.com/Kushal997-das/Competitive-Programming/blob/master/Hackerrank_python/13.Regex%20and%20Parsing/96.Matrix%20Script.py)|
+
+> 14.Closures and Decorators<br>
+
+| Subdomain | Difficulty | Problem link | Solution |
+|:---------:|:----------:|:-----------: |:--------:|
+|Closures and Decorators|Easy|[Standardize Mobile Number Using Decorators](https://www.hackerrank.com/challenges/standardize-mobile-number-using-decorators/problem)|[standardize-mobile-number-using-decorators.py](https://github.com/Kushal997-das/Competitive-Programming/blob/master/Hackerrank_python/14.Closures%20and%20Decorators/99.Standardize%20Mobile%20Number%20Using%20Decorators.py)|
+|Closures and Decorators|Easy|[Decorators 2 - Name Directory](https://www.hackerrank.com/challenges/decorators-2-name-directory/problem)|[Decorators 2 - Name Directory.py ](https://github.com/Kushal997-das/Competitive-Programming/blob/master/Hackerrank_python/14.Closures%20and%20Decorators/991.Decorators%202%20-%20Name%20Directory.py)|
+
+> 15.numpy<br>
+
+| Subdomain | Difficulty | Problem link | Solution |
+|:---------:|:----------:|:-----------: |:--------:|
+|Numpy|Easy|[Arrays](https://www.hackerrank.com/challenges/np-arrays/problem)|[np-arrays.py](https://github.com/Kushal997-das/Competitive-Programming/blob/master/Hackerrank_python/15.numpy/1.Arrays.py)|
+|Numpy|Easy|[Shape and Reshape](https://www.hackerrank.com/challenges/np-shape-reshape/problem)|[np-shape-reshape.py](https://github.com/Kushal997-das/Competitive-Programming/blob/master/Hackerrank_python/15.numpy/2.Shape%20and%20Reshape.py)|
+|Numpy|Easy|[Transpose and Flatten](https://www.hackerrank.com/challenges/np-transpose-and-flatten/problem)|[np-transpose-and-flatten.py](https://github.com/Kushal997-das/Competitive-Programming/blob/master/Hackerrank_python/15.numpy/3.Transpose%20and%20Flatten.py)|
+|Numpy|Easy|[Concatenate](https://www.hackerrank.com/challenges/np-concatenate/problem)|[np-concatenate.py](https://github.com/Kushal997-das/Competitive-Programming/blob/master/Hackerrank_python/15.numpy/4.Concatenate.py)|
+|Numpy|Easy|[Zeros and Ones](https://www.hackerrank.com/challenges/np-zeros-and-ones/problem)|[np-zeros-and-ones.py](https://github.com/Kushal997-das/Competitive-Programming/blob/master/Hackerrank_python/15.numpy/5.Zeros%20and%20Ones.py)|
+|Numpy|Easy|[Eye and Identity](https://www.hackerrank.com/challenges/np-eye-and-identity/problem)|[np-eye-and-identity.py](https://github.com/Kushal997-das/Competitive-Programming/blob/master/Hackerrank_python/15.numpy/6.Eye%20and%20Identity.py)|
+|Numpy|Easy|[Array Mathematics](https://www.hackerrank.com/challenges/np-array-mathematics/problem)|[np-array-mathematics.py](https://github.com/Kushal997-das/Competitive-Programming/blob/master/Hackerrank_python/15.numpy/7.Array%20Mathematics.py)|
+|Numpy|Easy|[Floor, Ceil and Rint](https://www.hackerrank.com/challenges/floor-ceil-and-rint/problem)|[floor-ceil-and-rint.py](https://github.com/Kushal997-das/Competitive-Programming/blob/master/Hackerrank_python/15.numpy/8.Floor%2C%20Ceil%20and%20Rint.py)|
+|Numpy|Easy|[Sum and Prod](https://www.hackerrank.com/challenges/np-sum-and-prod/problem)|[np-sum-and-prod.py](https://github.com/Kushal997-das/Competitive-Programming/blob/master/Hackerrank_python/15.numpy/9.Sum%20and%20Prod.py)|
+|Numpy|Easy|[Min and Max](https://www.hackerrank.com/challenges/np-min-and-max/problem)|[np-min-and-max.py](https://github.com/Kushal997-das/Competitive-Programming/blob/master/Hackerrank_python/15.numpy/10.Min%20and%20Max.py)|
+|Numpy|Easy|[Mean, Var, and Std](https://www.hackerrank.com/challenges/np-mean-var-and-std/problem)|[np-mean-var-and-std.py](https://github.com/Kushal997-das/Competitive-Programming/blob/master/Hackerrank_python/15.numpy/11.Mean%2C%20Var%2C%20and%20Std%20.py)|
+|Numpy|Easy|[Dot and Cross](https://www.hackerrank.com/challenges/np-dot-and-cross/problem)|[np-dot-and-cross.py](https://github.com/Kushal997-das/Competitive-Programming/blob/master/Hackerrank_python/15.numpy/12.Dot%20and%20Cross.py)|
+|Numpy|Easy|[Inner and Outer](https://www.hackerrank.com/challenges/np-inner-and-outer/problem)|[np-inner-and-outer.py](https://github.com/Kushal997-das/Competitive-Programming/blob/master/Hackerrank_python/15.numpy/13.Inner%20and%20Outer.py)|
+|Numpy|Easy|[Polynomials](https://www.hackerrank.com/challenges/np-polynomials/problem)|[np-polynomials.py](https://github.com/Kushal997-das/Competitive-Programming/blob/master/Hackerrank_python/15.numpy/14.Polynomials.py)|
+|Numpy|Easy|[Linear Algebra](https://www.hackerrank.com/challenges/np-linear-algebra/problem)|[np-linear-algebra.py](https://github.com/Kushal997-das/Competitive-Programming/blob/master/Hackerrank_python/15.numpy/15.Linear%20Algebra.py)|
+
+> 16.XML<br>
+
+| Subdomain | Difficulty | Problem link | Solution |
+|:---------:|:----------:|:-----------: |:--------:|
+|XML|Easy|[XML 1 - Find the Score](https://www.hackerrank.com/challenges/xml-1-find-the-score/problem)|[xml-1-find-the-score.py](https://github.com/Kushal997-das/Competitive-Programming/blob/master/Hackerrank_python/16.XML/97.XML%201%20-%20Find%20the%20Score.py)|
+|XML|Easy|[XML2 - Find the Maximum Depth](https://www.hackerrank.com/challenges/xml2-find-the-maximum-depth/problem)|[xml2-find-the-maximum-depth.py](https://github.com/Kushal997-das/Competitive-Programming/blob/master/Hackerrank_python/16.XML/98.XML2%20-%20Find%20the%20Maximum%20Depth.py)|
+
+> 17.Debugging<br>
+
+| Subdomain | Difficulty | Problem link | Solution |
+|:---------:|:----------:|:-----------: |:--------:|
+
+|Debugging|Medium|[Words Score](https://www.hackerrank.com/challenges/words-score/problem)|[words-score.py](https://github.com/Kushal997-das/Competitive-Programming/blob/master/Hackerrank_python/17.debugging/1.Words%20Score.py)|
+|Debugging|Medium|[Default Arguments](https://www.hackerrank.com/challenges/default-arguments/problem)|[default-arguments.py](https://github.com/Kushal997-das/Competitive-Programming/blob/master/Hackerrank_python/17.debugging/2.Default%20Arguments.py)|
