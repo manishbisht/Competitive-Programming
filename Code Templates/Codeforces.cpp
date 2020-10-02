@@ -39,6 +39,8 @@ const int MAXN = 1e6 + 3;
 
 #define fbo find_by_order
 #define ook order_of_key
+
+#define loop(i,start,end) for(auto i=(start<end)?start:start-1;(start<end)?i<end:i>=end;(start<end)?i++:i--)
 /*
 ios_base::sync_with_stdio(false);
     cin.tie(NULL);
