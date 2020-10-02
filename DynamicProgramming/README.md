@@ -10,5 +10,5 @@
 |Fibonacci|[Fibonacci.java](https://github.com/Kushal997-das/Competitive-Programming/blob/master/DynamicProgramming/Fibonacci.java)|
 |FordFulkerson|[FordFulkerson.java ](https://github.com/Kushal997-das/Competitive-Programming/blob/master/DynamicProgramming/FordFulkerson.java)|
 |KadaneAlgorithm|[KadaneAlgorithm.java](https://github.com/Kushal997-das/Competitive-Programming/blob/master/DynamicProgramming/KadaneAlgorithm.java)|
-|Fibonacci|[](https://github.com/Kushal997-das/Competitive-Programming/blob/master/DynamicProgramming/Fibonacci.java)|
-
+|Knapsack|[Knapsack.java ](https://github.com/Kushal997-das/Competitive-Programming/blob/master/DynamicProgramming/Knapsack.java)|
+|SubsetSum|[SubsetSum.java ](https://github.com/Kushal997-das/Competitive-Programming/blob/master/DynamicProgramming/SubsetSum.java)
