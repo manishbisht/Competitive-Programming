@@ -4,7 +4,7 @@ import java.io.*;
 
 class Codechef
 {
-	static class FastReader 
+     static class FastReader 
     { 
         BufferedReader br; 
         StringTokenizer st; 
