@@ -11,14 +11,14 @@
  * @param {TreeNode} root
  * @return {number}
  */
-var maxDepth = function(root) {
-  return solve(root)
+var maxDepth = function (root) {
+    return solve(root);
 };
 
-const solve = (root) => {
-  if (!root) {
-    return 0
-  }
+const solve = root => {
+    if (!root) {
+        return 0;
+    }
 
-  return 1 + Math.max(solve(root.left), solve(root.right))
-}
+    return 1 + Math.max(solve(root.left), solve(root.right));
+};

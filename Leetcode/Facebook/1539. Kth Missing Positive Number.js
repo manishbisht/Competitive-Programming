@@ -4,15 +4,15 @@
  * @param {number} k
  * @return {number}
  */
-var findKthPositive = function(arr, k) {
-  const missing = []
-  let i = 1
-  while (missing.length < k) {
-    if (!arr.includes(i)) {
-      missing.push(i)
+var findKthPositive = function (arr, k) {
+    const missing = [];
+    let i = 1;
+    while (missing.length < k) {
+        if (!arr.includes(i)) {
+            missing.push(i);
+        }
+        i++;
     }
-    i++
-  }
 
-  return missing[k - 1]
+    return missing[k - 1];
 };

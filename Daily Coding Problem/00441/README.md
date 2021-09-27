@@ -4,9 +4,9 @@ This problem was asked by Amazon.
 
 Given a pivot x, and a list lst, partition the list into three parts.
 
-- The first part contains all elements in lst that are less than x
-- The second part contains all elements in lst that are equal to x
-- The third part contains all elements in lst that are larger than x
+-   The first part contains all elements in lst that are less than x
+-   The second part contains all elements in lst that are equal to x
+-   The third part contains all elements in lst that are larger than x
 
 Ordering within a part can be arbitrary.
 

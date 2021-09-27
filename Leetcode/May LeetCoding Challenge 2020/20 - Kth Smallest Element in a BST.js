@@ -1,22 +1,22 @@
 var count, ans;
-var inOrderTraversal = function(root) {
+var inOrderTraversal = function (root) {
     if (root == null) {
-        return
+        return;
     }
     if (root.left) {
-        inOrderTraversal(root.left)
+        inOrderTraversal(root.left);
     }
-    
-    count -= 1
-    
+
+    count -= 1;
+
     if (count == 0) {
-        ans = root.val
+        ans = root.val;
     }
-        
+
     if (root.right) {
-        inOrderTraversal(root.right)
+        inOrderTraversal(root.right);
     }
-}
+};
 
 /**
  * Definition for a binary tree node.
@@ -31,8 +31,8 @@ var inOrderTraversal = function(root) {
  * @param {number} k
  * @return {number}
  */
-var kthSmallest = function(root, k) {
-    count = k
-    inOrderTraversal(root)
-    return ans
+var kthSmallest = function (root, k) {
+    count = k;
+    inOrderTraversal(root);
+    return ans;
 };

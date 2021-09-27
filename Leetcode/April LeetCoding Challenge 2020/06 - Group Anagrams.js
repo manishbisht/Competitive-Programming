@@ -2,19 +2,19 @@
  * @param {string[]} strs
  * @return {string[][]}
  */
-var groupAnagrams = function(strs) {
+var groupAnagrams = function (strs) {
     const result = [];
     const cache = {};
-    
+
     for (let i = 0; i < strs.length; i++) {
-        let sortedStringKey = strs[i].split("").sort().join("")
+        let sortedStringKey = strs[i].split("").sort().join("");
         if (cache[sortedStringKey]) {
-            result[cache[sortedStringKey] - 1].push(strs[i])
+            result[cache[sortedStringKey] - 1].push(strs[i]);
         } else {
-            cache[sortedStringKey] = result.length + 1
-            result[result.length] = [strs[i]]
+            cache[sortedStringKey] = result.length + 1;
+            result[result.length] = [strs[i]];
         }
     }
-    
-    return result
+
+    return result;
 };

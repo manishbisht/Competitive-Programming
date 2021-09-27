@@ -2,16 +2,18 @@
  * https://leetcode.com/problems/range-sum-query-2d-immutable/
  * @param {number[][]} matrix
  */
-var NumMatrix = function(matrix) {
-  this.dp = Array(matrix.length).fill().map(() => Array(matrix[0].length).fill(0))
-  let sum = 0
-  for (let i = 0; i < matrix.length; i++) {
-    sum = 0
-    for (let j = 0; j < matrix[0].length; j++) {
-      sum += matrix[i][j]
-      this.dp[i][j] = (this.dp[i - 1]?.[j] || 0) + sum
+var NumMatrix = function (matrix) {
+    this.dp = Array(matrix.length)
+        .fill()
+        .map(() => Array(matrix[0].length).fill(0));
+    let sum = 0;
+    for (let i = 0; i < matrix.length; i++) {
+        sum = 0;
+        for (let j = 0; j < matrix[0].length; j++) {
+            sum += matrix[i][j];
+            this.dp[i][j] = (this.dp[i - 1]?.[j] || 0) + sum;
+        }
     }
-  }
 };
 
 /**
@@ -21,8 +23,13 @@ var NumMatrix = function(matrix) {
  * @param {number} col2
  * @return {number}
  */
-NumMatrix.prototype.sumRegion = function(row1, col1, row2, col2) {
-  return (this.dp[row2][col2]) - (this.dp[row1 - 1]?.[col2] || 0) - (this.dp[row2]?.[col1 - 1] || 0) + (this.dp[row1 - 1]?.[col1 - 1] || 0)
+NumMatrix.prototype.sumRegion = function (row1, col1, row2, col2) {
+    return (
+        this.dp[row2][col2] -
+        (this.dp[row1 - 1]?.[col2] || 0) -
+        (this.dp[row2]?.[col1 - 1] || 0) +
+        (this.dp[row1 - 1]?.[col1 - 1] || 0)
+    );
 };
 
 /**

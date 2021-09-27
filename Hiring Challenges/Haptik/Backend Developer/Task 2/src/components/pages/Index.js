@@ -1,11 +1,11 @@
-import React, {Component} from 'react';
-import Typography from '@material-ui/core/Typography';
-import Button from '@material-ui/core/Button';
+import React, { Component } from "react";
+import Typography from "@material-ui/core/Typography";
+import Button from "@material-ui/core/Button";
 
 class Index extends Component {
     render() {
         return (
-            <div style={{marginTop: 100}}>
+            <div style={{ marginTop: 100 }}>
                 <center>
                     <Typography variant="h3" gutterBottom>
                         Welcome to Twitter
@@ -14,10 +14,20 @@ class Index extends Component {
                         Please sign up / login to continue
                     </Typography>
                     <div>
-                        <Button variant="contained" color="primary" style={{margin: 5}} onClick={() => this.props.history.push('/signup')}>
+                        <Button
+                            variant="contained"
+                            color="primary"
+                            style={{ margin: 5 }}
+                            onClick={() => this.props.history.push("/signup")}
+                        >
                             Sign Up
                         </Button>
-                        <Button variant="contained" color="primary" style={{margin: 5}} onClick={() => this.props.history.push('/login')}>
+                        <Button
+                            variant="contained"
+                            color="primary"
+                            style={{ margin: 5 }}
+                            onClick={() => this.props.history.push("/login")}
+                        >
                             Login
                         </Button>
                     </div>

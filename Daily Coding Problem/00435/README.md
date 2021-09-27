@@ -13,6 +13,7 @@ And the following inorder traversal:
 [d, b, e, a, f, c, g]
 
 You should return the following tree:
+
 ```
     a
    / \

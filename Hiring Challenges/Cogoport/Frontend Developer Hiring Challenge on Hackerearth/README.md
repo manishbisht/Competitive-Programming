@@ -72,7 +72,7 @@ access-control-allow-headers:Origin, X-Requested-With, Content-Type, Accept
 
 access-control-allow-methods:GET, POST, PUT
 
-access-control-allow-origin: *
+access-control-allow-origin: \*
 
 server: cloudflare-nginx
 
@@ -89,5 +89,3 @@ score — games rating score.
 genre — genre of the game.
 
 editors_choice — A value indicating whether this game was editor’s choice or not.
-
-

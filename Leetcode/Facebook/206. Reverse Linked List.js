@@ -10,12 +10,12 @@
  * @param {ListNode} head
  * @return {ListNode}
  */
-var reverseList = function(head) {
-  if (head && head.next) {
-    const node = reverseList(head.next)
-    head.next.next = head
-    head.next = null
-    return node
-  }
-  return head
+var reverseList = function (head) {
+    if (head && head.next) {
+        const node = reverseList(head.next);
+        head.next.next = head;
+        head.next = null;
+        return node;
+    }
+    return head;
 };

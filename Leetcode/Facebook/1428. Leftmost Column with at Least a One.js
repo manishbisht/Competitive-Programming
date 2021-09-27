@@ -20,22 +20,22 @@
  * @param {BinaryMatrix} binaryMatrix
  * @return {number}
  */
-var leftMostColumnWithOne = function(binaryMatrix) {
-  let ans = Number.POSITIVE_INFINITY
-  const dimensions = binaryMatrix.dimensions()
-  for (let i = 0; i < dimensions[0]; i++) {
-    let start = 0
-    let end = dimensions[1] - 1
-    while (start <= end) {
-      let mid = start + Math.floor((end - start) / 2)
-      const value = binaryMatrix.get(i, mid)
-      if (value === 1) {
-        ans = Math.min(ans, mid)
-        end = mid - 1
-      } else {
-        start = mid + 1
-      }
+var leftMostColumnWithOne = function (binaryMatrix) {
+    let ans = Number.POSITIVE_INFINITY;
+    const dimensions = binaryMatrix.dimensions();
+    for (let i = 0; i < dimensions[0]; i++) {
+        let start = 0;
+        let end = dimensions[1] - 1;
+        while (start <= end) {
+            let mid = start + Math.floor((end - start) / 2);
+            const value = binaryMatrix.get(i, mid);
+            if (value === 1) {
+                ans = Math.min(ans, mid);
+                end = mid - 1;
+            } else {
+                start = mid + 1;
+            }
+        }
     }
-  }
-  return ans === Number.POSITIVE_INFINITY ? -1 : ans
+    return ans === Number.POSITIVE_INFINITY ? -1 : ans;
 };

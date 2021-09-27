@@ -6,7 +6,7 @@ There is an N by M matrix of zeroes. Given N and M, write a function to count th
 
 For example, given a 2 by 2 matrix, you should return 2, since there are two ways to get to the bottom-right:
 
-- Right, then down
-- Down, then right
+-   Right, then down
+-   Down, then right
 
 Given a 5 by 5 matrix, there are 70 ways to get to the bottom-right.

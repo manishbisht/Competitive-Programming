@@ -3,25 +3,25 @@
  * @param {string} magazine
  * @return {boolean}
  */
-var canConstruct = function(ransomNote, magazine) {
+var canConstruct = function (ransomNote, magazine) {
     const count = {};
-    [...magazine].forEach((character) => {
+    [...magazine].forEach(character => {
         if (count[character]) {
-            count[character] += 1
+            count[character] += 1;
         } else {
-            count[character] = 1
+            count[character] = 1;
         }
     });
-    
+
     let ans = true;
-    
-    [...ransomNote].forEach((character) => {
+
+    [...ransomNote].forEach(character => {
         if (count[character]) {
-            count[character] -= 1
+            count[character] -= 1;
         } else {
-            ans = false
+            ans = false;
         }
     });
-    
+
     return ans;
 };

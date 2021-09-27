@@ -3,6 +3,7 @@
 This problem was asked by Microsoft.
 
 Implement 3 stacks using a single list:
+
 ```
 class Stack:
     def __init__(self):

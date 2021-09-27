@@ -9,29 +9,29 @@
  * @param {ListNode} head
  * @return {ListNode}
  */
-var oddEvenList = function(head) {
+var oddEvenList = function (head) {
     if (head) {
-        let result = head
-        let oddNode = head
-        let evenNode = head.next
-        let connectingNode = head.next
-        
+        let result = head;
+        let oddNode = head;
+        let evenNode = head.next;
+        let connectingNode = head.next;
+
         while (oddNode != null && evenNode != null) {
             if (evenNode.next == null) {
-                break
+                break;
             }
-            
-            oddNode.next = evenNode.next
-            oddNode = oddNode.next
-            
-            evenNode.next = oddNode.next
-            evenNode = evenNode.next
+
+            oddNode.next = evenNode.next;
+            oddNode = oddNode.next;
+
+            evenNode.next = oddNode.next;
+            evenNode = evenNode.next;
         }
-        
-        oddNode.next = connectingNode
-        
-        return result
+
+        oddNode.next = connectingNode;
+
+        return result;
     }
-    
-    return head
+
+    return head;
 };

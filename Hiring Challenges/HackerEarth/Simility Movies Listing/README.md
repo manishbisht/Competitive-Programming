@@ -23,7 +23,7 @@ Implement functionality to list movies details in a web page.
 
 — Implement Sort feature (to filter result through genres, budget). Again you should be searching local storage for this and not making fresh API calls.
 
-— href url parameter. All headings should be links which should open in new window. (Should open in new window | target="_blank")
+— href url parameter. All headings should be links which should open in new window. (Should open in new window | target="\_blank")
 
 [Extra Work]
 
@@ -121,9 +121,6 @@ Plot_keywords : Keywords of the plot.
 
 Movie_imdb_link : Movie’s IMDB Link.
 
-
-
 Manish Bisht
 Email : hi@manishbisht.me
 Website : https://manishbisht.me
-

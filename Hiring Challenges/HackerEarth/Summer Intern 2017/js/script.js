@@ -12,97 +12,103 @@ $(document).ready(function () {
     });
 
     // Main context menu
-    $('.content').bind('contextmenu', function (e) {
+    $(".content").bind("contextmenu", function (e) {
         e.preventDefault();
         loadMainOptions();
         var position = getPosition(e);
-        $('.context-menu').css({top: position.y + 'px', left: position.x + 'px'}).toggle(true);
+        $(".context-menu")
+            .css({ top: position.y + "px", left: position.x + "px" })
+            .toggle(true);
     });
 
     // Context menu for files and directory
-    $(document).on('contextmenu', '.icon-inner-box', function (e) {
+    $(document).on("contextmenu", ".icon-inner-box", function (e) {
         e.preventDefault();
         loadOptions();
         lc = this.parentNode;
         var position = getPosition(e);
-        $('.context-menu').css({top: position.y + 'px', left: position.x + 'px'}).toggle(true);
+        $(".context-menu")
+            .css({ top: position.y + "px", left: position.x + "px" })
+            .toggle(true);
     });
 
     // Hides the context menu when clicked anywhere on document
-    $(document).on('click', function () {
-        $('.context-menu').toggle(false);
+    $(document).on("click", function () {
+        $(".context-menu").toggle(false);
     });
 
     // Opens the home directory
-    $(document).on('click', '.home', function () {
+    $(document).on("click", ".home", function () {
         lc = "";
         openDirectory();
     });
 
     // Opens the folder using top navigation
-    $(document).on('click', '.root-data', function () {
+    $(document).on("click", ".root-data", function () {
         lc = this.parentNode;
         openDirectory(this.innerHTML);
     });
 
     // Opens Folder
-    $(document).on('dblclick', '.icon-inner-box', function () {
+    $(document).on("dblclick", ".icon-inner-box", function () {
         oldname = this.parentNode.childNodes[0].childNodes[1].innerHTML;
         openFolder(oldname);
     });
 
     // Creates Directory
-    $(document).on('click', '#createdirectory', function () {
+    $(document).on("click", "#createdirectory", function () {
         var dirname = prompt("Enter Directory Name");
         createDirectory(getCurrentDirectory(), dirname);
     });
 
     // Creates Files
-    $(document).on('click', '#createfile', function () {
+    $(document).on("click", "#createfile", function () {
         var filename = prompt("Enter File Name with extension");
         createFile(filename);
     });
 
     // Paste
-    $(document).on('click', '#paste', function () {
+    $(document).on("click", "#paste", function () {
         paste(getCurrentDirectory());
     });
 
     // Cut
-    $(document).on('click', '#cut', function () {
+    $(document).on("click", "#cut", function () {
         oldname = lc.childNodes[0].childNodes[1].innerHTML;
         type = lc.childNodes[0].childNodes[0].title;
-        move(getCurrentDirectory() + '/' + oldname, type, "cut");
+        move(getCurrentDirectory() + "/" + oldname, type, "cut");
     });
 
     // Copy
-    $(document).on('click', '#copy', function () {
+    $(document).on("click", "#copy", function () {
         oldname = lc.childNodes[0].childNodes[1].innerHTML;
         type = lc.childNodes[0].childNodes[0].title;
-        move(getCurrentDirectory() + '/' + oldname, type, "copy");
+        move(getCurrentDirectory() + "/" + oldname, type, "copy");
     });
 
     // Delete
-    $(document).on('click', '#delete', function () {
+    $(document).on("click", "#delete", function () {
         oldname = lc.childNodes[0].childNodes[1].innerHTML;
         removeData(getCurrentDirectory(), oldname);
         $("#" + lc.id).hide();
     });
 
     // Rename
-    $(document).on('click', '#rename', function () {
+    $(document).on("click", "#rename", function () {
         oldname = lc.childNodes[0].childNodes[1].innerHTML;
-        $("#" + lc.childNodes[0].childNodes[1].id).attr('contentEditable', true).focus();
+        $("#" + lc.childNodes[0].childNodes[1].id)
+            .attr("contentEditable", true)
+            .focus();
     });
 
     // If the folder or file is renamed
-    $(document).on('blur', '.data-name', function () {
-        $(this).attr('contentEditable', false);
+    $(document).on("blur", ".data-name", function () {
+        $(this).attr("contentEditable", false);
         rename(oldname, $(this).text());
     });
 
     // Render home directory
-    render(JSON.parse(localStorage.getItem('data')));
+    render(JSON.parse(localStorage.getItem("data")));
 
     // loads the side navigation
     loadSidebar("", "tree");
@@ -134,21 +140,18 @@ function render() {
             html += '<div id="' + i + '" align="center" class="icon-box"><div class="icon-inner-box">';
             if (data[i].type == "directory") {
                 html += '<img title="folder" class="icon" src="images/Folder.png">';
-
-            }
-            else {
-                var ext = data[i].name.split('.').pop();
+            } else {
+                var ext = data[i].name.split(".").pop();
                 if (ext == "jpg" || ext == "jpeg") {
                     html += '<img title="image" class="icon" src="images/image.png">';
-                }
-                else if (ext == "doc") {
+                } else if (ext == "doc") {
                     html += '<img title="doc" class="icon" src="images/doc.png">';
                 }
             }
             html += "<p id='t" + i + "' class='data-name'>" + data[i].name + "</p>";
             html += "</div></div>";
         }
-        $('.view').html(html);
+        $(".view").html(html);
     }
     renderRoot();
 }
@@ -157,42 +160,43 @@ function render() {
 function loadSidebar(dir, name) {
     data = getData(dir);
     var html = "";
-    if ($('#' + name).html() == " + ") {
-        $('#' + name).html(" - ");
+    if ($("#" + name).html() == " + ") {
+        $("#" + name).html(" - ");
+    } else {
+        $("#" + name).html(" + ");
     }
-    else {
-        $('#' + name).html(" + ");
-    }
-    if ($('.' + name).html() && dir !== "") {
-        $('.' + name).html(html);
-    }
-    else {
+    if ($("." + name).html() && dir !== "") {
+        $("." + name).html(html);
+    } else {
         if (data) {
             for (var i = 0; i < data.length; i++) {
                 if (data[i].type == "directory") {
-                    var temp = dir + '/' + data[i].name;
-                    var id = data[i].name.replace(' ', '-');
+                    var temp = dir + "/" + data[i].name;
+                    var id = data[i].name.replace(" ", "-");
                     html += "<ul class='folder'>";
-                    html += "<span onclick='loadSidebar(\"" + temp + "\", \"" + id + "\")' id='" + id + "'> + </span>";
-                    html += "<img onclick='loadSidebar(\"" + temp + "\", \"" + id + "\")' title='folder' class='small-icon' src='images/Folder.png'>";
-                    html += "<span onclick='loadSidebar(\"" + temp + "\", \"" + id + "\")'> " + data[i].name + "</span>";
-                    html += "<div class='" + id + "'></div>"
+                    html += "<span onclick='loadSidebar(\"" + temp + '", "' + id + "\")' id='" + id + "'> + </span>";
+                    html +=
+                        "<img onclick='loadSidebar(\"" +
+                        temp +
+                        '", "' +
+                        id +
+                        "\")' title='folder' class='small-icon' src='images/Folder.png'>";
+                    html += "<span onclick='loadSidebar(\"" + temp + '", "' + id + "\")'> " + data[i].name + "</span>";
+                    html += "<div class='" + id + "'></div>";
                     html += "</ul>";
-                }
-                else {
-                    var ext = data[i].name.split('.').pop();
+                } else {
+                    var ext = data[i].name.split(".").pop();
                     html += '<li class="file">';
                     if (ext == "jpg" || ext == "jpeg") {
                         html += '<img title="image" class="small-icon" src="images/image.png">';
-                    }
-                    else if (ext == "doc") {
+                    } else if (ext == "doc") {
                         html += '<img title="doc" class="small-icon" src="images/doc.png">';
                     }
-                    html += '<span> ' + data[i].name + '</span>';
+                    html += "<span> " + data[i].name + "</span>";
                     html += "</li>";
                 }
             }
-            $('.' + name).html(html);
+            $("." + name).html(html);
         }
     }
 }
@@ -201,16 +205,15 @@ function loadSidebar(dir, name) {
 function renderRoot() {
     html = "";
     if (getCurrentDirectory()) {
-        var array = getCurrentDirectory().split('/');
+        var array = getCurrentDirectory().split("/");
         array.splice(0, 1);
         root = "";
         for (var i = 0; i < array.length; i++) {
-            root = root + '+' + array[i];
+            root = root + "+" + array[i];
             html += " > <span class='root-data'>" + array[i] + "</span>";
         }
-
     }
-    $('.rootdetails').html(html);
+    $(".rootdetails").html(html);
 }
 
 // Open directory
@@ -219,24 +222,23 @@ function openDirectory(dir) {
         lc = lc.children;
         var root = "";
         for (var i = 0; i < lc.length; i++) {
-            root += '/' + lc[i].innerHTML;
+            root += "/" + lc[i].innerHTML;
             if (lc[i].innerHTML == dir) {
                 break;
             }
         }
-        localStorage.setItem('current', root);
-    }
-    else {
-        localStorage.setItem('current', "");
+        localStorage.setItem("current", root);
+    } else {
+        localStorage.setItem("current", "");
     }
     render();
 }
 
 // Get data from directory
 function getData(dir) {
-    data = JSON.parse(localStorage.getItem('data'));
+    data = JSON.parse(localStorage.getItem("data"));
     if (dir) {
-        var array = dir.split('/');
+        var array = dir.split("/");
         array.splice(0, 1);
         for (var i = 0; i < array.length; i++) {
             for (var j = 0; j < data.length; j++) {
@@ -252,7 +254,7 @@ function getData(dir) {
 
 // Get current directory
 function getCurrentDirectory() {
-    return localStorage.getItem('current');
+    return localStorage.getItem("current");
 }
 
 // Set the data in directory after sorting
@@ -260,18 +262,17 @@ function setData(dir, data) {
     var files = new Array();
     var folders = new Array();
     for (var i = 0; i < data.length; i++) {
-        if (data[i].type == 'directory') {
+        if (data[i].type == "directory") {
             folders.push(data[i]);
-        }
-        else {
+        } else {
             files.push(data[i]);
         }
     }
     files = files.sort(function (a, b) {
-        return (a['name'] > b['name']) ? 1 : ((a['name'] < b['name']) ? -1 : 0);
+        return a["name"] > b["name"] ? 1 : a["name"] < b["name"] ? -1 : 0;
     });
     folders = folders.sort(function (a, b) {
-        return (a['name'] > b['name']) ? 1 : ((a['name'] < b['name']) ? -1 : 0);
+        return a["name"] > b["name"] ? 1 : a["name"] < b["name"] ? -1 : 0;
     });
     data = [];
     for (var i = 0; i < folders.length; i++) {
@@ -280,16 +281,15 @@ function setData(dir, data) {
     for (var i = 0; i < files.length; i++) {
         data.push(files[i]);
     }
-    var dataa = JSON.parse(localStorage.getItem('data'));
+    var dataa = JSON.parse(localStorage.getItem("data"));
     if (dir) {
-        var array = dir.split('/');
+        var array = dir.split("/");
         array.splice(0, 1);
         dataa = loadData(dataa, data, array, 0);
-    }
-    else {
+    } else {
         dataa = data;
     }
-    localStorage.setItem('data', JSON.stringify(dataa));
+    localStorage.setItem("data", JSON.stringify(dataa));
 }
 
 // loads the new data in older data
@@ -312,7 +312,7 @@ function loadMainOptions() {
     html += '<li class="context-menu-item"><a id="createdirectory" class="context-menu-link">Create Directory</a></li>';
     html += '<li class="context-menu-item"><a id="createfile" class="context-menu-link">Create File</a></li><hr>';
     html += '<li class="context-menu-item"><a id="paste" class="context-menu-link">Paste </a></li></ul>';
-    $('.context-menu').html(html);
+    $(".context-menu").html(html);
 }
 
 // load file or folder context menu options
@@ -322,7 +322,7 @@ function loadOptions() {
     html += '<li class="context-menu-item"><a id="copy" class="context-menu-link">Copy</a></li>';
     html += '<li class="context-menu-item"><a id="delete" class="context-menu-link">Delete</a></li>';
     html += '<li class="context-menu-item"><a id="rename" class="context-menu-link">Rename</a></li></ul>';
-    $('.context-menu').html(html);
+    $(".context-menu").html(html);
 }
 
 // creates a new directory
@@ -348,8 +348,8 @@ function createDirectory(dir, dirname, children) {
 
 // Creates a new file in current directory
 function createFile(filename) {
-    var ext = filename.split('.').pop();
-    if (ext != 'doc' && ext != 'jpg' && ext != 'jpeg') {
+    var ext = filename.split(".").pop();
+    if (ext != "doc" && ext != "jpg" && ext != "jpeg") {
         alert("Invalid extension (should be .jpeg, .jpg or .doc)");
         return;
     }
@@ -371,7 +371,7 @@ function createFile(filename) {
 // move the file or folder either by cut and copy
 function move(dir, type, q) {
     var temp = new Object();
-    var array = dir.split('/');
+    var array = dir.split("/");
     temp.name = array[array.length - 1];
     temp.q = q;
     temp.type = type;
@@ -379,31 +379,30 @@ function move(dir, type, q) {
     if (type == "folder") {
         temp.data = getData(dir);
     }
-    localStorage.setItem('temp', JSON.stringify(temp));
+    localStorage.setItem("temp", JSON.stringify(temp));
 }
 
 // paste the file or folder and removes the data from previous source if option is cut
 function paste(dir) {
-    if (localStorage.getItem('temp')) {
-        var temp = JSON.parse(localStorage.getItem('temp'));
-        if (temp.type == 'folder') {
+    if (localStorage.getItem("temp")) {
+        var temp = JSON.parse(localStorage.getItem("temp"));
+        if (temp.type == "folder") {
             createDirectory(getCurrentDirectory(), temp.name, temp.data);
             if (temp.q == "cut") {
-                var array = temp.path.split('/');
+                var array = temp.path.split("/");
                 array.splice(-1, 1);
-                temp.path = array.join('/');
+                temp.path = array.join("/");
                 removeData(temp.path, temp.name);
-                localStorage.setItem('temp', "");
+                localStorage.setItem("temp", "");
             }
-        }
-        else {
+        } else {
             createFile(temp.name);
             if (temp.q == "cut") {
-                var array = temp.path.split('/');
+                var array = temp.path.split("/");
                 array.splice(-1, 1);
-                temp.path = array.join('/');
+                temp.path = array.join("/");
                 removeData(temp.path, temp.name);
-                localStorage.setItem('temp', "");
+                localStorage.setItem("temp", "");
             }
         }
         loadSidebar("", "tree");
@@ -445,12 +444,11 @@ function openFolder(name) {
     for (var i = 0; i < data.length; i++) {
         if (data[i].name == oldname && data[i].type == "directory") {
             if (getCurrentDirectory()) {
-                currentDirectory = getCurrentDirectory() + '/' + data[i].name;
+                currentDirectory = getCurrentDirectory() + "/" + data[i].name;
+            } else {
+                currentDirectory = "/" + data[i].name;
             }
-            else {
-                currentDirectory = '/' + data[i].name;
-            }
-            localStorage.setItem('current', currentDirectory);
+            localStorage.setItem("current", currentDirectory);
             render();
             break;
         }
@@ -466,13 +464,11 @@ function getPosition(e) {
         posx = e.pageX;
         posy = e.pageY;
     } else if (e.clientX || e.clientY) {
-        posx = e.clientX + document.body.scrollLeft +
-            document.documentElement.scrollLeft;
-        posy = e.clientY + document.body.scrollTop +
-            document.documentElement.scrollTop;
+        posx = e.clientX + document.body.scrollLeft + document.documentElement.scrollLeft;
+        posy = e.clientY + document.body.scrollTop + document.documentElement.scrollTop;
     }
     return {
         x: posx,
-        y: posy
-    }
+        y: posy,
+    };
 }

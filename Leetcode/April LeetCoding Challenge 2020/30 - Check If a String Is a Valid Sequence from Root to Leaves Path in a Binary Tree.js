@@ -1,14 +1,18 @@
-var pathExists = function(root, arr, index) {
+var pathExists = function (root, arr, index) {
     if (!root) {
-        return arr.length == 0
+        return arr.length == 0;
     }
-    
+
     if (!root.left && !root.right && root.val == arr[index] && index == arr.length - 1) {
-        return true
+        return true;
     }
-    
-    return index < arr.length && root.val == arr[index] && (pathExists(root.left, arr, index + 1) || pathExists(root.right, arr, index + 1))
-}
+
+    return (
+        index < arr.length &&
+        root.val == arr[index] &&
+        (pathExists(root.left, arr, index + 1) || pathExists(root.right, arr, index + 1))
+    );
+};
 /**
  * Definition for a binary tree node.
  * function TreeNode(val, left, right) {
@@ -22,6 +26,6 @@ var pathExists = function(root, arr, index) {
  * @param {number[]} arr
  * @return {boolean}
  */
-var isValidSequence = function(root, arr) {
-    return pathExists(root, arr, 0) || false
+var isValidSequence = function (root, arr) {
+    return pathExists(root, arr, 0) || false;
 };

@@ -11,21 +11,21 @@
  * @param {TreeNode} root
  * @return {void} Do not return anything, modify root in-place instead.
  */
-var flatten = function(root) {
-  prev = null
-  solve(root)
-  return root
+var flatten = function (root) {
+    prev = null;
+    solve(root);
+    return root;
 };
 
-let prev
+let prev;
 
-const solve = (root) => {
-  if (root) {
-    solve(root.right)
-    solve(root.left)
+const solve = root => {
+    if (root) {
+        solve(root.right);
+        solve(root.left);
 
-    root.right = prev
-    root.left = null
-    prev = root
-  }
-}
+        root.right = prev;
+        root.left = null;
+        prev = root;
+    }
+};

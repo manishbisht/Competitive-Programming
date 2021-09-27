@@ -19,7 +19,7 @@ Guarantees
 All numbers in the input are integers.
 Number of test cases: 1 <= C <= 50
 Number of programs: 1 <= N <= 20
-Number of dependencies: 0 <= M <= N*(N-1)/2
+Number of dependencies: 0 <= M <= N\*(N-1)/2
 1 <= Ai <= N, 1 <= Bi <= N
 There is a way to run each program exactly once.
 There is no circular dependency, that is, if i-th program depends on j-th program, j-th program does not depend on i-th program directly or indirectly.

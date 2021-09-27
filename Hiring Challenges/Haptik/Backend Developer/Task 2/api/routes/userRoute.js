@@ -1,12 +1,9 @@
 module.exports = function (app) {
-    const userController = require('../controllers/userController');
+    const userController = require("../controllers/userController");
 
-    app.route('/signup')
-        .post(userController.createAccount);
+    app.route("/signup").post(userController.createAccount);
 
-    app.route('/login')
-        .post(userController.checkLogin);
+    app.route("/login").post(userController.checkLogin);
 
-    app.route('/user/:userId')
-        .get(userController.getUserDetails);
+    app.route("/user/:userId").get(userController.getUserDetails);
 };

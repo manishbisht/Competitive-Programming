@@ -3,25 +3,25 @@
  * Initialize your data structure here.
  * @param {number} size
  */
-var MovingAverage = function(size) {
-  this.size = size
-  this.values = []
+var MovingAverage = function (size) {
+    this.size = size;
+    this.values = [];
 };
 
 /**
  * @param {number} val
  * @return {number}
  */
-MovingAverage.prototype.next = function(val) {
-  if (this.values.length >= this.size) {
-    this.values = this.values.slice(1)
-  }
-  this.values.push(val)
+MovingAverage.prototype.next = function (val) {
+    if (this.values.length >= this.size) {
+        this.values = this.values.slice(1);
+    }
+    this.values.push(val);
 
-  sum = 0
-  this.values.forEach((a) => sum += a)
+    sum = 0;
+    this.values.forEach(a => (sum += a));
 
-  return sum / this.values.length
+    return sum / this.values.length;
 };
 
 /**

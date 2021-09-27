@@ -8,7 +8,7 @@ More specifically, suppose your server has access to a set of client machines. Y
 
 Some questions you may want to consider as part of your solution are:
 
-- How will you reach as many pages as possible?
-- How can you keep track of pages that have already been visited?
-- How will you deal with your client machines being blacklisted?
-- How can you update your database when Wikipedia pages are added or updated?
+-   How will you reach as many pages as possible?
+-   How can you keep track of pages that have already been visited?
+-   How will you deal with your client machines being blacklisted?
+-   How can you update your database when Wikipedia pages are added or updated?

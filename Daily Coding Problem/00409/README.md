@@ -6,7 +6,7 @@ PageRank is an algorithm used by Google to rank the importance of different webs
 
 More mathematically, suppose there are N sites, and each site i has a certain count Ci of outgoing links. Then the score for a particular site Sj is defined as :
 
-score(Sj) = (1 - d) / N + d * (score(Sx) / Cx+ score(Sy) / Cy+ ... + score(Sz) / Cz))
+score(Sj) = (1 - d) / N + d \* (score(Sx) / Cx+ score(Sy) / Cy+ ... + score(Sz) / Cz))
 
 Here, Sx, Sy, ..., Sz denote the scores of all the other sites that have outgoing links to Sj, and d is a damping factor, usually set to around 0.85, used to model the probability that a user will stop searching.
 

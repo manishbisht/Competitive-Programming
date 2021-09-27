@@ -3,7 +3,7 @@
  * @param {number[]} nums
  * @return {number[]}
  */
-var sortArrayByParity = function(nums) {
-  nums.sort((a) => a % 2 == 0 ? -1 : 0)
-  return nums
+var sortArrayByParity = function (nums) {
+    nums.sort(a => (a % 2 == 0 ? -1 : 0));
+    return nums;
 };

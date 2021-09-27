@@ -9,13 +9,13 @@
  * @param {ListNode} head
  * @return {ListNode}
  */
-var middleNode = function(head) {
-    let slowPointer = head
-    let fastPointer = head
-        
+var middleNode = function (head) {
+    let slowPointer = head;
+    let fastPointer = head;
+
     while (fastPointer.next && fastPointer.next.next) {
-        slowPointer = slowPointer.next
-        fastPointer = fastPointer.next.next
+        slowPointer = slowPointer.next;
+        fastPointer = fastPointer.next.next;
     }
-    return fastPointer.next ? slowPointer.next : slowPointer
+    return fastPointer.next ? slowPointer.next : slowPointer;
 };

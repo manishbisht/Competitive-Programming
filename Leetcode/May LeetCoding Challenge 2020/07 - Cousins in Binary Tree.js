@@ -1,22 +1,22 @@
-var getParentNodeAndDepth = function(root, value, result) {
+var getParentNodeAndDepth = function (root, value, result) {
     if (!root) {
-        return null
+        return null;
     }
-    
+
     if (root.val == value) {
-        return result
-    } 
-    
-    const newResult = {...result}
-    newResult.parent = root
-    newResult.depth += 1
-    
-    const leftNode = getParentNodeAndDepth(root.left, value, newResult)
-    if (leftNode) return leftNode
-    
-    const rightNode = getParentNodeAndDepth(root.right, value, newResult)
-    if (rightNode) return rightNode
-}
+        return result;
+    }
+
+    const newResult = { ...result };
+    newResult.parent = root;
+    newResult.depth += 1;
+
+    const leftNode = getParentNodeAndDepth(root.left, value, newResult);
+    if (leftNode) return leftNode;
+
+    const rightNode = getParentNodeAndDepth(root.right, value, newResult);
+    if (rightNode) return rightNode;
+};
 
 /**
  * Definition for a binary tree node.
@@ -32,8 +32,8 @@ var getParentNodeAndDepth = function(root, value, result) {
  * @param {number} y
  * @return {boolean}
  */
-var isCousins = function(root, x, y) {
-    const nodeOne = getParentNodeAndDepth(root, x, {depth: 0, parent: root})
-    const nodeTwo = getParentNodeAndDepth(root, y, {depth: 0, parent: root})
-    return nodeOne.depth === nodeTwo.depth && nodeOne.parent.val != nodeTwo.parent.val
+var isCousins = function (root, x, y) {
+    const nodeOne = getParentNodeAndDepth(root, x, { depth: 0, parent: root });
+    const nodeTwo = getParentNodeAndDepth(root, y, { depth: 0, parent: root });
+    return nodeOne.depth === nodeTwo.depth && nodeOne.parent.val != nodeTwo.parent.val;
 };

@@ -7,6 +7,7 @@ You are presented with an 8 by 8 matrix representing the positions of pieces on 
 For details on how each piece moves, see here.
 
 For example, given the following matrix:
+
 ```
 ...K....
 ........
@@ -17,4 +18,5 @@ For example, given the following matrix:
 ........
 .....Q..
 ```
+
 You should return True, since the bishop is attacking the king diagonally.

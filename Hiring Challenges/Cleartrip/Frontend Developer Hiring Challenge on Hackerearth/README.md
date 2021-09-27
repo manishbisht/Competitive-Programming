@@ -113,5 +113,3 @@ title: project title
 type: type of location (string: County/Island/LocalAdmin/Suburb/Town/Zip)
 
 url: project url after domain (string)
-
-

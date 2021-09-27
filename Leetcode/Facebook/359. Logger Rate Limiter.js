@@ -2,8 +2,8 @@
  * https://leetcode.com/problems/logger-rate-limiter/
  * Initialize your data structure here.
  */
-var Logger = function() {
-  this.printed = {}
+var Logger = function () {
+    this.printed = {};
 };
 
 /**
@@ -14,12 +14,12 @@ var Logger = function() {
  * @param {string} message
  * @return {boolean}
  */
-Logger.prototype.shouldPrintMessage = function(timestamp, message) {
-  if (!this.printed.hasOwnProperty(message) || timestamp - this.printed[message] >= 10) {
-    this.printed[message] = timestamp
-    return true
-  }
-  return false
+Logger.prototype.shouldPrintMessage = function (timestamp, message) {
+    if (!this.printed.hasOwnProperty(message) || timestamp - this.printed[message] >= 10) {
+        this.printed[message] = timestamp;
+        return true;
+    }
+    return false;
 };
 
 /**

@@ -11,21 +11,21 @@
  * @param {TreeNode} root
  * @return {number}
  */
-var diameterOfBinaryTree = function(root) {
-  ans = Number.NEGATIVE_INFINITY
-  solve(root)
-  return ans
+var diameterOfBinaryTree = function (root) {
+    ans = Number.NEGATIVE_INFINITY;
+    solve(root);
+    return ans;
 };
 
-let ans
+let ans;
 
-const solve = (root) => {
-  if (root) {
-    let left = solve(root.left)
-    let right = solve(root.right)
-    ans = Math.max(ans, left + right)
-    return 1 + Math.max(left, right)
-  }
+const solve = root => {
+    if (root) {
+        let left = solve(root.left);
+        let right = solve(root.right);
+        ans = Math.max(ans, left + right);
+        return 1 + Math.max(left, right);
+    }
 
-  return 0
-}
+    return 0;
+};

@@ -3,9 +3,9 @@
  * @param {number} n
  * @return {number}
  */
-var rangeBitwiseAnd = function(m, n) {
+var rangeBitwiseAnd = function (m, n) {
     while (m < n) {
-        n -= (n & -n)
+        n -= n & -n;
     }
-    return n
+    return n;
 };

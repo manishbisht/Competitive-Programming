@@ -11,25 +11,25 @@
  * @param {TreeNode} root
  * @return {string[]}
  */
-var binaryTreePaths = function(root) {
-  ans = []
-  solve(root, "")
-  return ans
+var binaryTreePaths = function (root) {
+    ans = [];
+    solve(root, "");
+    return ans;
 };
 
-let ans
+let ans;
 
 const solve = (root, path) => {
-  if (root) {
-    path += root.val
+    if (root) {
+        path += root.val;
 
-    if (!root.left && !root.right) {
-      ans.push(path)
-      return
+        if (!root.left && !root.right) {
+            ans.push(path);
+            return;
+        }
+
+        path += "->";
+        solve(root.left, path);
+        solve(root.right, path);
     }
-
-    path += '->'
-    solve(root.left, path)
-    solve(root.right, path)
-  }
-}
+};

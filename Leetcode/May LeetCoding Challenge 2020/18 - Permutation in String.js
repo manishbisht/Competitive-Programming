@@ -3,42 +3,42 @@
  * @param {string} s2
  * @return {boolean}
  */
-var checkInclusion = function(s1, s2) {
+var checkInclusion = function (s1, s2) {
     const count = {};
-    [...s1].forEach((character) => {
+    [...s1].forEach(character => {
         if (count[character]) {
-            count[character] += 1
+            count[character] += 1;
         } else {
-            count[character] = 1
+            count[character] = 1;
         }
     });
     let i = 0;
     let j = 0;
-    let charCount = s1.length
+    let charCount = s1.length;
     while (j < s2.length) {
         if (count[s2[j]] > 0) {
-            charCount -= 1
+            charCount -= 1;
         }
         if (count[s2[j]]) {
-            count[s2[j]] -= 1
+            count[s2[j]] -= 1;
         } else {
-            count[s2[j]] = -1
+            count[s2[j]] = -1;
         }
-        j += 1
+        j += 1;
         if (charCount == 0) {
-            return true
+            return true;
         }
         if (j - i == s1.length) {
             if (count[s2[i]] >= 0) {
-                charCount += 1
+                charCount += 1;
             }
             if (count[s2[i]]) {
-                count[s2[i]] += 1
+                count[s2[i]] += 1;
             } else {
-                count[s2[i]] = 1
+                count[s2[i]] = 1;
             }
-            i += 1
+            i += 1;
         }
     }
-    return false
+    return false;
 };

@@ -1,20 +1,20 @@
-var createNode = function(root, value) {
+var createNode = function (root, value) {
     if (root) {
         if (value > root.val) {
             if (root.right) {
-               createNode(root.right, value) 
+                createNode(root.right, value);
             } else {
-                root.right = new TreeNode(value)
+                root.right = new TreeNode(value);
             }
         } else {
             if (root.left) {
-               createNode(root.left, value) 
+                createNode(root.left, value);
             } else {
-                root.left = new TreeNode(value)
+                root.left = new TreeNode(value);
             }
         }
     }
-}
+};
 /**
  * Definition for a binary tree node.
  * function TreeNode(val, left, right) {
@@ -27,10 +27,10 @@ var createNode = function(root, value) {
  * @param {number[]} preorder
  * @return {TreeNode}
  */
-var bstFromPreorder = function(preorder) {
-    let root = new TreeNode(preorder[0])
+var bstFromPreorder = function (preorder) {
+    let root = new TreeNode(preorder[0]);
     for (let i = 1; i < preorder.length; i++) {
-        createNode(root, preorder[i])
+        createNode(root, preorder[i]);
     }
-    return root
+    return root;
 };
