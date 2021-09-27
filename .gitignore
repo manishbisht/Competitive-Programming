@@ -6,5 +6,4 @@
 
 #Jupyter Notebook checkpoints
 .ipynb_checkpoints
-package-lock.json
 node_modules
