@@ -244,3 +244,45 @@ class PSO:
     
     def print_velocity(self):
         print(self.velocity)
+
+def pso_calculate(f_count, df):
+    y_actual = []
+    y_predict = []
+    fitness_best_g = (-1, -1, -1)
+    pos_fitness_g = []
+    swarm = []
+    no_population = 400
+    iteration = 1
+    
+    for i in range(0,no_population):
+        swarm.append(PSO(f_count, df))
+  
+    while iteration <= 10:
+        
+        print('\nIteration : ', iteration)
+        
+        for pos in range(0, no_population):
+            
+            swarm[pos].evaluate_fitness()
+            
+            #check current particle is the global best 
+            if swarm[pos].fitness_check(swarm[pos].fitness, fitness_best_g): #swarm[pos].fitness > fitness_best_g or fitness_best_g == -1:
+                pos_fitness_g = list(swarm[pos].position)
+                fitness_best_g = (swarm[pos].fitness)
+                y_actual = swarm[pos].y_actual
+                y_predict = swarm[pos].y_predict                
+            
+        for pos in range(0, no_population):
+            swarm[pos].update_velocity(pos_fitness_g)
+            swarm[pos].update_position()
+            
+        print(pos_fitness_g)
+        print(fitness_best_g)
+        iteration+=1
+
+    
+    print('\n Final Solution:')
+    print(pos_fitness_g)
+    print(fitness_best_g)
+    cm_2 = confusion_matrix(y_actual, y_predict)
+    sns.heatmap(cm_2,annot=True,fmt="d")        
