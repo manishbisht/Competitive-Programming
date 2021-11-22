@@ -286,3 +286,5 @@ def pso_calculate(f_count, df):
     print(fitness_best_g)
     cm_2 = confusion_matrix(y_actual, y_predict)
     sns.heatmap(cm_2,annot=True,fmt="d")        
+
+pso_calculate(30,df)
