@@ -3,6 +3,7 @@
 -   https://medium.freecodecamp.org/i-built-an-app-that-makes-learning-algorithms-and-data-structures-way-more-fun-46fbb8afacaf
 -   http://www.ideserve.co.in/
 -   https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513
+-   https://www.interviewbit.com/courses/programming/
 
 # Free stuff
 
@@ -36,6 +37,8 @@
 -   https://medium.freecodecamp.org/a-practical-guide-to-fetch-reduce-and-formatting-data-from-an-external-api-283ddd9bfdcb
 -   http://www.javascriptgrammar.com/?v=bio
 -   https://javascript.info/
+-   https://www.interviewbit.com/javascript-interview-questions/
+-   https://www.interviewbit.com/javascript-cheat-sheet/
 
 # Javascript Style Guide
 
@@ -54,6 +57,8 @@
 -   https://tutorial.djangogirls.org/en/
 -   https://www.learnpython.org/
 -   https://www.programiz.com/
+-   https://www.interviewbit.com/python-cheat-sheet/
+-   https://www.interviewbit.com/python-interview-questions/
 
 # Web Development
 
@@ -61,6 +66,7 @@
 -   https://hackernoon.com/the-2019-web-developer-roadmap-ab89ac3c380e
 -   https://medium.com/@sunilsandhu/the-web-developer-roadmap-for-2019-692cb02d36a4
 -   https://medium.com/zerotomastery/web-developer-monthly-july-2019-a65ac4c1e223
+-   https://www.interviewbit.com/web-developer-interview-questions/
 
 # GitHub
 
@@ -70,6 +76,8 @@
 -   https://lab.github.com/
 -   https://learngitbranching.js.org/
 -   https://www.codecademy.com/learn/learn-git
+-   https://www.interviewbit.com/git-interview-questions/
+-   https://www.interviewbit.com/git-cheat-sheet/
 
 # Apple
 
@@ -87,6 +95,7 @@
 -   https://hbr.org/2017/07/inside-facebooks-ai-workshop
 -   https://www.fastcompany.com/40408179/im-facebooks-head-of-people-heres-what-were-hiring-for-right-now-and-why
 -   https://medium.freecodecamp.org/software-engineering-interviews-744380f4f2af
+-   https://www.interviewbit.com/facebook-interview-questions/
 
 # Facebook - Education and Research
 
@@ -103,6 +112,7 @@
 
 -   https://campusmantra.blogspot.in/2017/03/amazon-interview-experience.html
 -   https://medium.freecodecamp.com/why-learning-to-code-alexa-skills-is-the-gateway-to-a-cloud-computing-job-fa13c1c0c853
+-   https://www.interviewbit.com/amazon-interview-questions/
 
 # Twitter
 
@@ -112,6 +122,7 @@
 
 -   https://hackernoon.com/thank-you-microsoft-for-the-amazing-software-engineer-internship-407a49b8f816
 -   https://cloudsociety.microsoft.com/en/login/
+-   https://www.interviewbit.com/microsoft-interview-questions/
 
 # NVIDIA
 
@@ -133,10 +144,12 @@
 
 -   https://egghead.io/courses/getting-started-with-redux
 -   https://egghead.io/courses/building-react-applications-with-idiomatic-redux
+-   https://www.interviewbit.com/redux-interview-questions/
 
 # Angular JS
 
 -   https://angular-university.io/course/getting-started-with-angular2
+-   https://www.interviewbit.com/angularjs-interview-questions/
 
 # Firebase
 
@@ -148,15 +161,19 @@
 -   https://css-tricks.com/
 -   https://flexboxfroggy.com/
 -   http://cssgridgarden.com/
+-   https://www.interviewbit.com/css-interview-questions/
+-   https://www.interviewbit.com/css-cheat-sheet/
 
 # GoLang
 
 -   https://hackr.io/tutorials/learn-golang
 -   https://golang.org/doc/
+-   https://www.interviewbit.com/golang-interview-questions/
 
 # Kotlin
 
 -   https://android.jlelse.eu/handsome-codes-with-kotlin-6e183db4c7e5
+-   https://www.interviewbit.com/kotlin-interview-questions/
 
 # Setting up your portfolio
 
@@ -171,10 +188,12 @@
 # Cloud Computing
 
 -   https://medium.freecodecamp.org/why-learning-to-code-alexa-skills-is-the-gateway-to-a-cloud-computing-job-fa13c1c0c853
+-   https://www.interviewbit.com/cloud-computing-interview-questions/
 
 # Internet of Things
 
 -   https://iot-for-all.com/6-things-you-didnt-know-about-gps-efb37e83bd02
+-   https://www.interviewbit.com/iot-interview-questions/
 
 # DNS
 
@@ -277,3 +296,4 @@
 -   https://magenta.as/a-day-at-google-learning-about-flow-31fa6c645a05
 -   https://www.geeksforgeeks.org/
 -   https://www.programiz.com/
+-   https://www.interviewbit.com/mock-interview/
