@@ -24,6 +24,7 @@
 -   https://www.spoj.com/
 -   https://www.urionlinejudge.com.br/
 -   https://codeforces.com/
+-   https://www.interviewbit.com/courses/programming/
 
 # Javascript
 
@@ -36,6 +37,7 @@
 -   https://medium.freecodecamp.org/a-practical-guide-to-fetch-reduce-and-formatting-data-from-an-external-api-283ddd9bfdcb
 -   http://www.javascriptgrammar.com/?v=bio
 -   https://javascript.info/
+-   https://www.interviewbit.com/javascript-cheat-sheet/
 
 # Javascript Style Guide
 
@@ -54,6 +56,7 @@
 -   https://tutorial.djangogirls.org/en/
 -   https://www.learnpython.org/
 -   https://www.programiz.com/
+-   https://www.interviewbit.com/python-cheat-sheet/
 
 # Web Development
 
@@ -61,6 +64,7 @@
 -   https://hackernoon.com/the-2019-web-developer-roadmap-ab89ac3c380e
 -   https://medium.com/@sunilsandhu/the-web-developer-roadmap-for-2019-692cb02d36a4
 -   https://medium.com/zerotomastery/web-developer-monthly-july-2019-a65ac4c1e223
+-   https://www.interviewbit.com/blog/web-development-frameworks/
 
 # GitHub
 
@@ -87,6 +91,7 @@
 -   https://hbr.org/2017/07/inside-facebooks-ai-workshop
 -   https://www.fastcompany.com/40408179/im-facebooks-head-of-people-heres-what-were-hiring-for-right-now-and-why
 -   https://medium.freecodecamp.org/software-engineering-interviews-744380f4f2af
+-   https://www.interviewbit.com/facebook-interview-questions/
 
 # Facebook - Education and Research
 
@@ -103,6 +108,7 @@
 
 -   https://campusmantra.blogspot.in/2017/03/amazon-interview-experience.html
 -   https://medium.freecodecamp.com/why-learning-to-code-alexa-skills-is-the-gateway-to-a-cloud-computing-job-fa13c1c0c853
+-   https://www.interviewbit.com/amazon-interview-questions/
 
 # Twitter
 
@@ -133,10 +139,12 @@
 
 -   https://egghead.io/courses/getting-started-with-redux
 -   https://egghead.io/courses/building-react-applications-with-idiomatic-redux
+-   https://www.interviewbit.com/redux-interview-questions/
 
 # Angular JS
 
 -   https://angular-university.io/course/getting-started-with-angular2
+-   https://www.interviewbit.com/angularjs-interview-questions/
 
 # Firebase
 
@@ -277,3 +285,5 @@
 -   https://magenta.as/a-day-at-google-learning-about-flow-31fa6c645a05
 -   https://www.geeksforgeeks.org/
 -   https://www.programiz.com/
+-   https://www.interviewbit.com/practice/
+-   https://www.interviewbit.com/courses/fast-track-js/
