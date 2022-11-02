@@ -51,6 +51,7 @@
 -   https://medium.com/@ageitgey/quick-tip-speed-up-your-python-data-processing-scripts-with-process-pools-cf275350163a
 -   https://github.com/LambdaSchool/Intro-Python-I
 -   https://automatetheboringstuff.com/
+-   https://www.scaler.com/topics/python/
 -   https://realpython.com
 -   https://awesome-python.com/
 -   https://tutorial.djangogirls.org/en/
