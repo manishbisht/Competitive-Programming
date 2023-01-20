@@ -38,6 +38,7 @@
 -   http://www.javascriptgrammar.com/?v=bio
 -   https://javascript.info/
 -   https://www.interviewbit.com/javascript-cheat-sheet/
+-   https://github.com/Vishal-raj-1/Awesome-JavaScript-Projects
 
 # Javascript Style Guide
 
